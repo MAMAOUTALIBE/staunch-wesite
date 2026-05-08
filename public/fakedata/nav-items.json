@@ -1,0 +1,156 @@
+[
+	{
+		"id": 1,
+		"name": "Accueil",
+		"path": "/"
+	},
+	{
+		"id": 2,
+		"name": "À propos",
+		"path": "#",
+		"submenu": [
+			{
+				"id": 1,
+				"name": "Le cabinet",
+				"path": "#",
+				"items": [
+					{ "id": 1, "name": "Notre cabinet", "path": "/about", "badge": null },
+					{
+						"id": 2,
+						"name": "Notre histoire",
+						"path": "/history",
+						"badge": "HOT"
+					},
+					{ "id": 3, "name": "Notre équipe", "path": "/team", "badge": null },
+					{ "id": 4, "name": "Témoignages", "path": "#", "badge": null },
+					{ "id": 5, "name": "FAQ", "path": "/faq", "badge": null },
+					{ "id": 6, "name": "Contact", "path": "/contact", "badge": null }
+				]
+			},
+			{
+				"id": 2,
+				"name": "Ressources",
+				"path": "#",
+				"items": [
+					{ "id": 1, "name": "Nos services", "path": "/services", "badge": null },
+					{
+						"id": 2,
+						"name": "Détail service",
+						"path": "/services/1",
+						"badge": null
+					},
+					{
+						"id": 3,
+						"name": "Erreur 404",
+						"path": "/error",
+						"badge": null
+					},
+					{
+						"id": 4,
+						"name": "Blog grille",
+						"path": "/blog-grid",
+						"badge": "NEW"
+					},
+					{
+						"id": 5,
+						"name": "Blog",
+						"path": "/blogs",
+						"badge": null
+					},
+					{
+						"id": 6,
+						"name": "Détail article",
+						"path": "/blogs/1",
+						"badge": null
+					},
+					{ "id": 7, "name": "Conditions d'utilisation", "path": "#", "badge": null }
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Services",
+		"path": "/services",
+		"submenu": [
+			{
+				"id": 1,
+				"name": "Coaching & Formation",
+				"icon": "tji-optimization",
+				"path": "/services/1"
+			},
+			{
+				"id": 2,
+				"name": "Accompagnement Startup",
+				"icon": "tji-strategic",
+				"path": "/services/2"
+			},
+			{
+				"id": 3,
+				"name": "Conseil aux Entreprises",
+				"icon": "tji-business",
+				"path": "/services/3"
+			},
+			{
+				"id": 4,
+				"name": "Implantation en Guinée",
+				"icon": "tji-global",
+				"path": "/services/4"
+			},
+			{
+				"id": 5,
+				"name": "Facilitation Institutionnelle",
+				"icon": "tji-executive",
+				"path": "/services/5"
+			},
+			{
+				"id": 6,
+				"name": "Réseautage & Partenariats",
+				"icon": "tji-process",
+				"path": "/services/6"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Méthodologie",
+		"path": "/history",
+		"submenu": [
+			{
+				"id": 1,
+				"name": "Notre méthodologie",
+				"path": "/history"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Blog",
+		"path": "/blogs",
+		"submenu": [
+			{
+				"id": 1,
+				"name": "Blog",
+				"path": "/blogs",
+				"badge": "NEW"
+			},
+			{
+				"id": 2,
+				"name": "Blog grille",
+				"path": "/blog-grid",
+				"badge": null
+			},
+			{
+				"id": 3,
+				"name": "Détail article",
+				"path": "/blogs/1",
+				"badge": null
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Contact",
+		"path": "/contact"
+	}
+]

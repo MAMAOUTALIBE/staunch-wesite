@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Coaching & Formation",
+    "img": "/img/icons/figma.png",
+    "perchant": "98%"
+  },
+  {
+    "name": "Conseil Stratégique",
+    "img": "/img/icons/sketch.png",
+    "perchant": "95%"
+  },
+  {
+    "name": "Implantation Guinée",
+    "img": "/img/icons/xd.png",
+    "perchant": "97%"
+  },
+  {
+    "name": "Facilitation Institutionnelle",
+    "img": "/img/icons/wp.png",
+    "perchant": "94%"
+  },
+  {
+    "name": "Levée de fonds",
+    "img": "/img/icons/react.png",
+    "perchant": "92%"
+  },
+  {
+    "name": "Réseau B2B",
+    "img": "/img/icons/js.png",
+    "perchant": "96%"
+  }
+]

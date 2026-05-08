@@ -1,0 +1,18 @@
+[
+    {
+        "iconName":"fa-brands fa-linkedin-in",
+        "path":"#"
+    },
+    {
+        "iconName":"fa-brands fa-facebook-f",
+        "path":"#"
+    },
+    {
+        "iconName":"fa-brands fa-x-twitter",
+        "path":"#"
+    },
+    {
+        "iconName":"fa-brands fa-whatsapp",
+        "path":"#"
+    }
+]
