@@ -1,0 +1,68 @@
+[
+	{
+		"id": 1,
+		"authorName": "ناتالي هاري",
+		"authorDesig": "كبير التنفيذيين",
+		"img": "/images/testimonial/h1-test-1.webp",
+		"img2": "/images/testimonial/h3-test-1.png",
+		"logoImg": "/img/testimonials/logo/1.png",
+		"logoImgLight": "/img/testimonials/logo/1-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "تجربتنا مع سولفيور كانت استثنائية بكل المقاييس. منذ اليوم الأول، أظهر فريقهم فهمًا عميقًا لصناعتنا وحدد بسرعة المجالات الرئيسية للتحسين. كانت توصياتهم مبتكرة وعملية في الوقت نفسه، مما أدى إلى كفاءة عالية."
+	},
+	{
+		"id": 2,
+		"authorName": "بوردي نيكولاس",
+		"authorDesig": "صاحب عمل",
+		"img": "/images/testimonial/h1-test-2.webp",
+		"img2": "/images/testimonial/h1-test-2.webp",
+		"logoImg": "/img/testimonials/logo/2.png",
+		"logoImgLight": "/img/testimonials/logo/2-dark.png",
+		"thumbImg": "/img/testimonials/user/h10-test.png",
+		"desc": "تجربتنا مع سولفيور كانت استثنائية بكل المقاييس. منذ اليوم الأول، أظهر فريقهم فهمًا عميقًا لصناعتنا وحدد بسرعة المجالات الرئيسية للتحسين. كانت توصياتهم مبتكرة وعملية في الوقت نفسه، مما أدى إلى كفاءة عالية."
+	},
+	{
+		"id": 3,
+		"authorName": "مايكل دي سوزا",
+		"authorDesig": "مدير أول",
+		"img": "/images/testimonial/h6-test-1.webp",
+		"img2": "/images/testimonial/h3-test-3.png",
+		"logoImg": "/img/testimonials/logo/1.png",
+		"logoImgLight": "/img/testimonials/logo/1-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "تجربتنا مع سولفيور كانت استثنائية بكل المقاييس. منذ اليوم الأول، أظهر فريقهم فهمًا عميقًا لصناعتنا وحدد بسرعة المجالات الرئيسية للتحسين. كانت توصياتهم مبتكرة وعملية في الوقت نفسه، مما أدى إلى كفاءة عالية."
+	},
+	{
+		"id": 4,
+		"authorName": "كارولين ديونت",
+		"authorDesig": "مدير تنفيذي أول",
+		"img": "/images/testimonial/h3-test-3.png",
+		"img2": "/images/testimonial/h6-test-1.webp",
+		"logoImg": "/img/testimonials/logo/2.png",
+		"logoImgLight": "/img/testimonials/logo/2-dark.png",
+		"thumbImg": "/img/testimonials/user/h10-test.png",
+		"desc": "تجربتنا مع سولفيور كانت استثنائية بكل المقاييس. منذ اليوم الأول، أظهر فريقهم فهمًا عميقًا لصناعتنا وحدد بسرعة المجالات الرئيسية للتحسين. كانت توصياتهم مبتكرة وعملية في الوقت نفسه، مما أدى إلى كفاءة عالية."
+	},
+	{
+		"id": 5,
+		"authorName": "لورين ساندرز",
+		"authorDesig": "صاحب عمل",
+		"img": "/images/testimonial/h3-test-4.png",
+		"img2": "/images/testimonial/h3-test-1.png",
+		"logoImg": "/img/testimonials/logo/1.png",
+		"logoImgLight": "/img/testimonials/logo/1-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "تجربتنا مع سولفيور كانت استثنائية بكل المقاييس. منذ اليوم الأول، أظهر فريقهم فهمًا عميقًا لصناعتنا وحدد بسرعة المجالات الرئيسية للتحسين. كانت توصياتهم مبتكرة وعملية في الوقت نفسه، مما أدى إلى كفاءة عالية."
+	},
+	{
+		"id": 6,
+		"authorName": "براندون كوبر",
+		"authorDesig": "مدير أول",
+		"img": "/images/testimonial/h6-test-1.webp",
+		"img2": "/images/testimonial/h3-test-2.png",
+		"logoImg": "/img/testimonials/logo/2.png",
+		"logoImgLight": "/img/testimonials/logo/2-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "تجربتنا مع سولفيور كانت استثنائية بكل المقاييس. منذ اليوم الأول، أظهر فريقهم فهمًا عميقًا لصناعتنا وحدد بسرعة المجالات الرئيسية للتحسين. كانت توصياتهم مبتكرة وعملية في الوقت نفسه، مما أدى إلى كفاءة عالية."
+	}
+]

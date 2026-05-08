@@ -1,0 +1,298 @@
+[
+	{
+		"id": 1,
+		"title": "تحسين العمليات التجارية",
+		"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+		"img": "/images/service/h1-service-1.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-1.webp",
+		"bgImg2": "/images/service/h3-service-1.webp",
+		"iconName": "tji-optimization",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+		"shortDesc": "تأكد من أن موقعك يبدو رائعًا على أي جهاز، مع تخطيطات تتكيف بسلاسة مع مختلف أحجام الشاشات.",
+		"desc1": "هذا نص عربي تجريبي بديل للنصوص الإنجليزية الطويلة للتوضيح والعرض.",
+		"desc2": "هذا نص عربي إضافي لتوضيح المحتوى بدلاً من النصوص الإنجليزية السابقة.",
+		"totalProject": "10 مشاريع",
+		"process": {
+			"title": "عملية الخدمات",
+			"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-2.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-ux-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+			"processItems": [
+				"إعادة ابتكار عملك نحو الأفضل",
+				"ريادة الإنترنت لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة"
+			]
+		}
+	},
+	{
+		"id": 2,
+		"title": "التخطيط والتنفيذ الاستراتيجي",
+		"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+		"img": "/images/service/h1-service-2.webp",
+		"imgSm": "/img/icons/services-10-icons-3.svg",
+		"bgImg": "/images/service/h1-service-2.webp",
+		"bgImg2": "/images/service/h3-service-2.webp",
+		"iconName": "tji-strategic",
+		"svg": "/images/icons/service-2.svg",
+
+		"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+		"shortDesc": "إعداد حلول CMS سهلة الاستخدام مثل ووردبريس أو خيارات مخصصة لتمكين العملاء من إدارة المحتوى بسهولة.",
+		"desc1": "هذا نص عربي تجريبي بديل للنصوص الإنجليزية الطويلة للتوضيح والعرض.",
+		"desc2": "هذا نص عربي إضافي لتوضيح المحتوى بدلاً من النصوص الإنجليزية السابقة.",
+		"totalProject": "11 مشروعًا",
+		"process": {
+			"title": "عملية الخدمات",
+			"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-2.svg",
+
+			"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+			"processItems": [
+				"إعادة ابتكار عملك نحو الأفضل",
+				"ريادة الإنترنت لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة"
+			]
+		}
+	},
+	{
+		"id": 3,
+		"title": "التدريب التنفيذي على القيادة",
+		"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+		"img": "/images/service/h1-service-3.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-3.webp",
+		"bgImg2": "/images/service/h3-service-3.webp",
+		"iconName": "tji-leadership",
+		"svg": "/images/icons/service-3.svg",
+
+		"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+		"shortDesc": "بناء ودمج واجهات برمجة التطبيقات لربط المواقع بالتطبيقات الخارجية وتعزيز الأداء.",
+		"desc1": "هذا نص عربي تجريبي بديل للنصوص الإنجليزية الطويلة للتوضيح والعرض.",
+		"desc2": "هذا نص عربي إضافي لتوضيح المحتوى بدلاً من النصوص الإنجليزية السابقة.",
+		"totalProject": "15 مشروعًا",
+		"process": {
+			"title": "عملية الخدمات",
+			"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-3.svg",
+
+			"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+			"processItems": [
+				"إعادة ابتكار عملك نحو الأفضل",
+				"ريادة الإنترنت لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة"
+			]
+		}
+	},
+	{
+		"id": 4,
+		"title": "معهد القيادة الموروثة",
+		"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+		"img": "/images/service/h1-service-4.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-4.webp",
+		"bgImg2": "/images/service/h3-service-4.webp",
+		"iconName": "tji-business",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+		"shortDesc": "تحديث المواقع القديمة بتصاميم عصرية تتماشى مع أهداف العلامة التجارية الحالية وتوقعات المستخدمين.",
+		"desc1": "هذا نص عربي تجريبي بديل للنصوص الإنجليزية الطويلة للتوضيح والعرض.",
+		"desc2": "هذا نص عربي إضافي لتوضيح المحتوى بدلاً من النصوص الإنجليزية السابقة.",
+		"totalProject": "10 مشاريع",
+		"process": {
+			"title": "عملية الخدمات",
+			"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+			"processItems": [
+				"إعادة ابتكار عملك نحو الأفضل",
+				"ريادة الإنترنت لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة"
+			]
+		}
+	},
+	{
+		"id": 5,
+		"title": "حلول النمو التنفيذي",
+		"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+		"img": "/images/service/h1-service-5.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-5.webp",
+		"bgImg2": "/images/service/h3-service-1.webp",
+		"iconName": "tji-executive",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+		"shortDesc": "تحديث المواقع القديمة بتصاميم عصرية تتماشى مع أهداف العلامة التجارية الحالية وتوقعات المستخدمين.",
+		"desc1": "هذا نص عربي تجريبي بديل للنصوص الإنجليزية الطويلة للتوضيح والعرض.",
+		"desc2": "هذا نص عربي إضافي لتوضيح المحتوى بدلاً من النصوص الإنجليزية السابقة.",
+		"totalProject": "10 مشاريع",
+		"process": {
+			"title": "عملية الخدمات",
+			"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+			"processItems": [
+				"إعادة ابتكار عملك نحو الأفضل",
+				"ريادة الإنترنت لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة"
+			]
+		}
+	},
+	{
+		"id": 6,
+		"title": "رحلة القيادة المُمكّنة",
+		"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+		"img": "/images/service/h1-service-6.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-6.webp",
+		"bgImg2": "/images/service/h3-service-1.webp",
+		"iconName": "tji-process",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+		"shortDesc": "تحديث المواقع القديمة بتصاميم عصرية تتماشى مع أهداف العلامة التجارية الحالية وتوقعات المستخدمين.",
+		"desc1": "هذا نص عربي تجريبي بديل للنصوص الإنجليزية الطويلة للتوضيح والعرض.",
+		"desc2": "هذا نص عربي إضافي لتوضيح المحتوى بدلاً من النصوص الإنجليزية السابقة.",
+		"totalProject": "10 مشاريع",
+		"process": {
+			"title": "عملية الخدمات",
+			"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+			"processItems": [
+				"إعادة ابتكار عملك نحو الأفضل",
+				"ريادة الإنترنت لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة"
+			]
+		}
+	},
+	{
+		"id": 7,
+		"title": "التخطيط والتنفيذ الاستراتيجي",
+		"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+		"img": "/images/service/h1-service-2.webp",
+		"imgSm": "/img/icons/services-10-icons-3.svg",
+		"bgImg": "/images/service/h1-service-2.webp",
+		"bgImg2": "/images/service/h3-service-2.webp",
+		"iconName": "tji-strategic",
+		"svg": "/images/icons/service-2.svg",
+
+		"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+		"shortDesc": "إعداد حلول CMS سهلة الاستخدام مثل ووردبريس أو خيارات مخصصة لتمكين العملاء من إدارة المحتوى بسهولة.",
+		"desc1": "هذا نص عربي تجريبي بديل للنصوص الإنجليزية الطويلة للتوضيح والعرض.",
+		"desc2": "هذا نص عربي إضافي لتوضيح المحتوى بدلاً من النصوص الإنجليزية السابقة.",
+		"totalProject": "11 مشروعًا",
+		"process": {
+			"title": "عملية الخدمات",
+			"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-2.svg",
+
+			"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+			"processItems": [
+				"إعادة ابتكار عملك نحو الأفضل",
+				"ريادة الإنترنت لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة"
+			]
+		}
+	},
+	{
+		"id": 8,
+		"title": "التدريب التنفيذي على القيادة",
+		"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+		"img": "/images/service/h1-service-3.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-3.webp",
+		"bgImg2": "/images/service/h3-service-3.webp",
+		"iconName": "tji-leadership",
+		"svg": "/images/icons/service-3.svg",
+
+		"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+		"shortDesc": "بناء ودمج واجهات برمجة التطبيقات لربط المواقع بالتطبيقات الخارجية وتعزيز الأداء.",
+		"desc1": "هذا نص عربي تجريبي بديل للنصوص الإنجليزية الطويلة للتوضيح والعرض.",
+		"desc2": "هذا نص عربي إضافي لتوضيح المحتوى بدلاً من النصوص الإنجليزية السابقة.",
+		"totalProject": "15 مشروعًا",
+		"process": {
+			"title": "عملية الخدمات",
+			"titleLarge": "التخطيط الاستراتيجي والتنفيذ في العملية الشاملة لصياغة الأهداف",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-3.svg",
+
+			"desc": "في بيئة الأعمال الديناميكية اليوم، يكمن النجاح في التخطيط الاستراتيجي والتنفيذ الفعّال للعمليات.",
+			"processItems": [
+				"إعادة ابتكار عملك نحو الأفضل",
+				"ريادة الإنترنت لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة",
+				"ريادة عالم التصميم لأول مرة"
+			]
+		}
+	}
+]

@@ -1,0 +1,231 @@
+{
+  "META": {
+    "siteName": "STAUNCH",
+    "siteTagline": "Votre partenaire indéfectible pour entreprendre en Guinée",
+    "siteDescription": "STAUNCH est un cabinet 360° de conseil et d'accompagnement entrepreneurial basé à Conakry. Coaching, formation, conseil aux entreprises, implantation en Guinée et facilitation institutionnelle.",
+    "fondateur": "Mohamed Bashir Jalloh",
+    "siege": "Kipé, Conakry, République de Guinée",
+    "telephones": ["+224 629 28 45 97", "+224 610 20 13 13"],
+    "whatsapp": "+27 68 183 4827",
+    "email": "contact@staunch.gn",
+    "emailFondateur": "mohamedbashir@mbjalloh.com",
+    "horaires": "Lundi - Vendredi : 8h00 - 18h00"
+  },
+
+  "HERO": {
+    "preTitle": "Cabinet 360° • Conakry, Guinée",
+    "title": "Votre partenaire indéfectible pour entreprendre en",
+    "titleHighlight": "Guinée",
+    "description": "STAUNCH accompagne entrepreneurs, startups, PME et entreprises étrangères : coaching, formation, conseil stratégique, implantation et facilitation institutionnelle. Avec nous, bénéficiez d'un dispositif sur-mesure.",
+    "cta": "Consultation gratuite",
+    "ctaSecondary": "Découvrir nos services"
+  },
+
+  "ABOUT": {
+    "preTitle": "À propos de nous",
+    "title": "Un cabinet de conseil aux côtés des entrepreneurs et entreprises depuis 2019",
+    "subTitle": "Indéfectible. Solide. À vos côtés.",
+    "description1": "STAUNCH est un cabinet de conseil et d'accompagnement entrepreneurial basé à Conakry. Notre nom — qui signifie 'indéfectible' en anglais — incarne notre engagement total : nous restons aux côtés de nos clients, à toutes les étapes de leur projet, en Guinée et en Afrique de l'Ouest.",
+    "description2": "Notre cabinet est né de l'évolution naturelle du pôle coaching MB-JALLOH, créé par Mohamed Bashir Jalloh. Face à la demande croissante d'accompagnement global — coaching, conseil, implantation, facilitation — nous avons élargi nos services pour offrir une réponse 360°, tout en préservant l'expertise coaching d'origine sous la marque MB-JALLOH.",
+    "philosophie": "Guider individus et entreprises vers une réussite durable en comprenant d'abord leurs moteurs intrinsèques, en optimisant leur acquisition de compétences, puis en traçant un parcours personnalisé à long terme.",
+    "valeurs": [
+      {"titre": "Loyauté", "description": "Indéfectibles aux côtés de nos clients"},
+      {"titre": "Excellence", "description": "Méthodes éprouvées et exigence à chaque étape"},
+      {"titre": "Confidentialité", "description": "Respect total de vos données stratégiques"},
+      {"titre": "Impact", "description": "Résultats mesurables et transformation durable"}
+    ],
+    "btnText": "En savoir plus"
+  },
+
+  "METHODOLOGIE": {
+    "preTitle": "Méthodologie MB-JALLOH",
+    "title": "Le Pionnier de l'Entrepreneuriat",
+    "description": "Notre cadre d'accompagnement repose sur 3 piliers, applicables aussi bien aux individus qu'aux entreprises.",
+    "piliers": [
+      {
+        "numero": "01",
+        "nom": "DIAGNOSE",
+        "titre": "La Fondation pour la Conscience de Soi",
+        "description": "Diagnostics MBTI, Big Five, StrengthsFinder. Style d'apprentissage Honey & Mumford. Valeurs et motivations personnelles.",
+        "objectif": "Passer de « Je veux entreprendre » à « Voici qui je suis et comment j'apprends »."
+      },
+      {
+        "numero": "02",
+        "nom": "DESIGN",
+        "titre": "Le Plan Stratégique",
+        "description": "Cartographie 1-3-5 ans : Fondation, Rampe de Lancement, Vision. Analyse des lacunes et plan de comblement.",
+        "objectif": "Co-créer une feuille de route à long terme réaliste et inspirante."
+      },
+      {
+        "numero": "03",
+        "nom": "DÉVELOPPER",
+        "titre": "Le Plan d'Action",
+        "description": "Apprentissage personnalisé, mentorat et intégration communautaire, mise en œuvre adaptée à votre profil.",
+        "objectif": "Transformer le plan en étapes concrètes et mesurables."
+      }
+    ]
+  },
+
+  "FUNFACTS": {
+    "preTitle": "STAUNCH en chiffres",
+    "title": "Notre impact en quelques nombres",
+    "items": [
+      {"value": 100, "symbol": "+", "label": "Entrepreneurs accompagnés"},
+      {"value": 6, "symbol": "", "label": "Pôles de services"},
+      {"value": 5, "symbol": "+", "label": "Années d'expertise"},
+      {"value": 100, "symbol": "%", "label": "Sur-mesure"}
+    ]
+  },
+
+  "FEATURES": {
+    "preTitle": "Pourquoi STAUNCH",
+    "title": "Un accompagnement complet pour votre réussite",
+    "items": [
+      {
+        "title": "Approche 360°",
+        "description": "Du coaching individuel à la stratégie d'entreprise, en passant par l'implantation : un seul interlocuteur pour tous vos besoins."
+      },
+      {
+        "title": "Expertise locale",
+        "description": "Une connaissance fine de l'écosystème guinéen et du tissu institutionnel pour faciliter vos démarches."
+      },
+      {
+        "title": "Réseau international",
+        "description": "Des connexions avec investisseurs, partenaires et institutions en Afrique de l'Ouest et au-delà."
+      },
+      {
+        "title": "Méthodologie éprouvée",
+        "description": "Des outils internationaux (MBTI, Big Five) combinés à notre framework MB-JALLOH unique."
+      }
+    ]
+  },
+
+  "TESTIMONIALS": {
+    "preTitle": "Ils nous font confiance",
+    "title": "Ce que disent nos clients",
+    "items": [
+      {
+        "name": "Aïssatou D.",
+        "role": "Fondatrice, AgriTech Conakry",
+        "text": "Grâce à STAUNCH, nous avons structuré notre startup et obtenu notre premier financement en moins de 6 mois. Une équipe vraiment indéfectible, à l'image de leur nom."
+      },
+      {
+        "name": "Karim B.",
+        "role": "Directeur Afrique, Groupe européen",
+        "text": "L'accompagnement à l'implantation en Guinée a été précieux. Toutes les démarches administratives ont été gérées avec professionnalisme. Aucune surprise désagréable."
+      },
+      {
+        "name": "Mamadou S.",
+        "role": "Entrepreneur, secteur Tech",
+        "text": "Le coaching MB-JALLOH m'a permis de clarifier ma vision et de construire un plan d'action concret. Six mois plus tard, mon entreprise est lancée et rentable."
+      },
+      {
+        "name": "Fatoumata C.",
+        "role": "Directrice générale, PME industrielle",
+        "text": "Le diagnostic organisationnel proposé par STAUNCH a transformé notre entreprise. Le plan stratégique 1-3-5 ans nous donne enfin une vision claire."
+      }
+    ]
+  },
+
+  "CTA": {
+    "preTitle": "Parlons de votre projet",
+    "title": "Prêt à transformer votre vision en réussite ?",
+    "description": "Notre équipe d'experts vous accompagne à toutes les étapes. Que vous soyez entrepreneur, dirigeant de PME ou investisseur étranger, STAUNCH a une réponse adaptée.",
+    "btnText": "Demander une consultation gratuite"
+  },
+
+  "FOOTER": {
+    "description": "Cabinet 360° de conseil et d'accompagnement entrepreneurial basé à Conakry, Guinée. Pôle coaching : MB-JALLOH.",
+    "officeTitle": "Notre bureau",
+    "officeLocation": "Siège - Guinée",
+    "officeAddress": "Kipé, Conakry, République de Guinée",
+    "menuTitle": "Liens utiles",
+    "menuItems": ["À propos", "Services", "Méthodologie", "Implantation Guinée", "Blog", "Contact"],
+    "servicesTitle": "Nos services",
+    "newsletterTitle": "Newsletter",
+    "newsletterDesc": "Recevez nos conseils et actualités sur l'entrepreneuriat en Guinée.",
+    "newsletterPlaceholder": "Votre email",
+    "newsletterCta": "S'inscrire",
+    "copyright": "© 2026 STAUNCH. Tous droits réservés. MB-JALLOH est un pôle de STAUNCH."
+  },
+
+  "CONTACT": {
+    "preTitle": "Contactez-nous",
+    "title": "Parlons de votre projet",
+    "description": "Notre équipe d'experts vous accompagne à toutes les étapes. Décrivez-nous votre projet et nous vous répondons sous 24h.",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "phone": "Téléphone",
+      "company": "Entreprise (optionnel)",
+      "subject": "Service souhaité",
+      "message": "Décrivez votre projet",
+      "submit": "Envoyer ma demande",
+      "subjects": [
+        "Coaching & Formation",
+        "Accompagnement Startup",
+        "Conseil aux Entreprises",
+        "Implantation en Guinée",
+        "Facilitation Institutionnelle",
+        "Réseautage & Partenariats",
+        "Autre"
+      ]
+    },
+    "info": {
+      "addressTitle": "Notre bureau",
+      "address": "Kipé, Conakry, République de Guinée",
+      "phoneTitle": "Téléphones",
+      "emailTitle": "Email",
+      "hoursTitle": "Horaires",
+      "hours": "Lundi - Vendredi : 8h00 - 18h00"
+    }
+  },
+
+  "BLOG": {
+    "preTitle": "Insights & Ressources",
+    "title": "Nos derniers articles",
+    "description": "Articles, guides et ressources pour booster votre parcours entrepreneurial.",
+    "categories": ["Entrepreneuriat", "Implantation Guinée", "Financement", "Stratégie", "Développement personnel"],
+    "articles": [
+      {
+        "title": "Implanter son entreprise en Guinée : les 5 étapes essentielles",
+        "category": "Implantation Guinée",
+        "readTime": "7 min de lecture",
+        "excerpt": "Vous envisagez d'établir votre activité en Guinée ? Voici le guide complet pour réussir votre implantation sereinement.",
+        "date": "15 Avril 2026"
+      },
+      {
+        "title": "5 erreurs à éviter lors du lancement d'une startup en Afrique",
+        "category": "Entrepreneuriat",
+        "readTime": "5 min de lecture",
+        "excerpt": "L'écosystème africain regorge d'opportunités, mais aussi de pièges. Voici comment les anticiper.",
+        "date": "08 Avril 2026"
+      },
+      {
+        "title": "Comment décrocher son premier financement : le guide complet",
+        "category": "Financement",
+        "readTime": "8 min de lecture",
+        "excerpt": "De la préparation du dossier à la négociation : tout ce qu'il faut savoir pour convaincre les investisseurs.",
+        "date": "01 Avril 2026"
+      },
+      {
+        "title": "MBTI, Big Five : quel test choisir pour mieux se connaître ?",
+        "category": "Développement personnel",
+        "readTime": "6 min de lecture",
+        "excerpt": "Décryptage des principaux outils de profilage personnel utilisés par les coachs internationaux.",
+        "date": "25 Mars 2026"
+      }
+    ]
+  },
+
+  "SECTEURS_IMPLANTATION": [
+    "Mines & Ressources",
+    "Agriculture & Agro-industrie",
+    "Énergie",
+    "Télécommunications",
+    "BTP & Infrastructure",
+    "Services financiers",
+    "Commerce & Distribution",
+    "Tech & Innovation"
+  ]
+}

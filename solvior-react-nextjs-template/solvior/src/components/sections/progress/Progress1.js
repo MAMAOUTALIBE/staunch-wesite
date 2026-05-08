@@ -1,0 +1,78 @@
+import ProgressBar from "@/components/shared/progress/ProgressBar";
+import Image from "next/image";
+
+const Progress1 = () => {
+	return (
+		<section className="tj-progress-section section-space">
+			<div
+				className="progress-bg-images d-none d-lg-block"
+				style={{
+					backgroundImage: "url('/images/progress/h2-progress-2.webp')",
+				}}
+			></div>
+			<div className="container">
+				<div className="row align-items-center">
+					<div className="col-lg-6 order-2 order-lg-1">
+						<div className="progress-images">
+							<Image
+								src="/images/progress/h2-progress-1.webp"
+								alt="Images"
+								width={600}
+								height={589}
+								style={{ height: "auto" }}
+							/>
+						</div>
+					</div>
+					<div className="col-lg-6 order-1 order-lg-2">
+						<div className="progress-right-content">
+							<div className="sec-heading style-2">
+								<span className="sub-title wow fadeInUp" data-wow-delay="0.1s">
+									// Notre expertise
+								</span>
+								<h2 className="sec-title text-anim">
+									Des professionnels indéfectibles à vos côtés
+								</h2>
+								<div className="desc wow fadeInUp" data-wow-delay="0.3s">
+									<p>
+										STAUNCH combine des outils internationaux éprouvés (MBTI,
+										Big Five, StrengthsFinder) et une connaissance fine du
+										tissu entrepreneurial guinéen. Notre méthodologie MB-JALLOH
+										vous accompagne du diagnostic jusqu'à la mise en œuvre
+										opérationnelle de votre stratégie.
+									</p>
+								</div>
+								<div
+									className="progress-style-2 wow fadeInUp"
+									data-wow-delay="0.5s"
+								>
+									<div className="proggess-item">
+										<div className="proggess-circle">
+											<ProgressBar />
+										</div>
+										<div className="proggess-text">
+											<span className="sub-title">
+												Conseil <br /> stratégique
+											</span>
+										</div>
+									</div>
+									<div className="proggess-item">
+										<div className="proggess-circle">
+											<ProgressBar value={75} />
+										</div>
+										<div className="proggess-text">
+											<span className="sub-title">
+												Accompagnement <br /> client
+											</span>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	);
+};
+
+export default Progress1;

@@ -1,0 +1,289 @@
+[
+	{
+		"id": 1,
+		"title": "Coaching & Formation",
+		"titleLarge": "Coaching personnalisé et formations professionnelles pour entrepreneurs et cadres",
+		"img": "/images/service/h1-service-1.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-1.webp",
+		"bgImg2": "/images/service/h3-service-1.webp",
+		"iconName": "tji-optimization",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "Sessions de coaching intensives pour développer leadership, communication et confiance entrepreneuriale. Méthodologie MB-JALLOH.",
+		"shortDesc": "Coaching individuel et formations sur-mesure : communication, fiscalité, business plan, appels d'offre.",
+		"desc1": "Notre pôle MB-JALLOH propose un coaching personnalisé qui combine les meilleurs outils internationaux (MBTI, Big Five, StrengthsFinder) à une connaissance fine du tissu économique guinéen. Que vous soyez étudiant en orientation pro, entrepreneur en lancement ou cadre en évolution, nous adaptons notre méthode à votre profil unique.",
+		"desc2": "Nos formations couvrent les compétences essentielles pour réussir : communication d'entreprise, fiscalité guinéenne, business plan, passation de marché public, traitement d'appel d'offre. Méthodes éprouvées, exercices pratiques, accompagnement post-formation.",
+		"totalProject": "100+ Personnes accompagnées",
+		"process": {
+			"title": "Notre processus",
+			"titleLarge": "Coaching et formation : un parcours en 4 étapes",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-2.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-ux-design ",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "Une méthodologie éprouvée par notre pôle MB-JALLOH pour transformer votre potentiel en réussite.",
+			"processItems": [
+				"Diagnostic personnalité et aptitudes (MBTI, Big Five)",
+				"Identification du style d'apprentissage",
+				"Plan de coaching ou formation sur-mesure",
+				"Suivi et ajustement continu"
+			]
+		}
+	},
+	{
+		"id": 2,
+		"title": "Accompagnement Startup",
+		"titleLarge": "De l'idée au financement, structurez votre startup pour réussir",
+		"img": "/images/service/h1-service-2.webp",
+		"imgSm": "/img/icons/services-10-icons-3.svg",
+		"bgImg": "/images/service/h1-service-2.webp",
+		"bgImg2": "/images/service/h3-service-2.webp",
+		"iconName": "tji-strategic",
+		"svg": "/images/icons/service-2.svg",
+
+		"desc": "Diagnostic 360°, structuration juridique et financière, accès aux financements pour startups.",
+		"shortDesc": "Accompagnement complet des porteurs de projet, de la conception à la levée de fonds.",
+		"desc1": "Vous avez une idée de startup ? STAUNCH vous accompagne à toutes les étapes : validation du concept, étude de marché, structuration juridique et financière, élaboration du business plan, préparation des supports de levée de fonds. Notre approche est ancrée dans l'écosystème entrepreneurial africain.",
+		"desc2": "Nous facilitons votre accès aux financements (banques, fonds d'investissement, programmes publics) grâce à notre réseau institutionnel solide en Guinée et en Afrique de l'Ouest. Préparation aux pitchs, mise en relation investisseurs, mentorat continu.",
+		"totalProject": "30+ Startups accompagnées",
+		"process": {
+			"title": "Notre processus",
+			"titleLarge": "Accompagnement startup : de l'idée au financement",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-2.svg",
+
+			"desc": "Un processus structuré pour maximiser vos chances de succès.",
+			"processItems": [
+				"Validation du concept et étude de marché",
+				"Structuration juridique et business plan",
+				"Préparation à la levée de fonds",
+				"Mise en relation avec investisseurs",
+				"Mentorat post-financement"
+			]
+		}
+	},
+	{
+		"id": 3,
+		"title": "Conseil aux Entreprises",
+		"titleLarge": "Stratégie et optimisation pour PME et grandes entreprises",
+		"img": "/images/service/h1-service-3.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-3.webp",
+		"bgImg2": "/images/service/h3-service-3.webp",
+		"iconName": "tji-business",
+		"svg": "/images/icons/service-3.svg",
+
+		"desc": "Diagnostic organisationnel, plan stratégique 1-3-5 ans, restructuration et transformation.",
+		"shortDesc": "Conseil stratégique pour PME et grandes entreprises souhaitant accélérer leur croissance.",
+		"desc1": "STAUNCH accompagne les entreprises établies dans leur transformation et leur développement. Notre équipe d'experts analyse votre organisation, identifie les leviers de croissance et co-construit avec vous un plan stratégique réaliste et ambitieux.",
+		"desc2": "Du diagnostic organisationnel à la mise en œuvre, nous intervenons sur tous les fronts : stratégie commerciale, optimisation des processus, restructuration, gestion du changement. Notre approche allie rigueur méthodologique et compréhension fine du contexte africain.",
+		"totalProject": "50+ Entreprises conseillées",
+		"process": {
+			"title": "Notre processus",
+			"titleLarge": "Conseil aux entreprises : transformation durable",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-3.svg",
+
+			"desc": "Une démarche éprouvée pour des résultats mesurables.",
+			"processItems": [
+				"Diagnostic organisationnel approfondi",
+				"Élaboration du plan stratégique 1-3-5 ans",
+				"Plan de transformation et conduite du changement",
+				"Mise en œuvre opérationnelle",
+				"Suivi des indicateurs de performance"
+			]
+		}
+	},
+	{
+		"id": 4,
+		"title": "Implantation en Guinée",
+		"titleLarge": "Votre point d'entrée fiable pour s'installer en Guinée",
+		"img": "/images/service/h1-service-4.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-4.webp",
+		"bgImg2": "/images/service/h3-service-4.webp",
+		"iconName": "tji-global",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "Pour entreprises étrangères : étude de marché, démarches administratives, recrutement local.",
+		"shortDesc": "Service complet d'accompagnement à l'implantation en Guinée pour entreprises internationales.",
+		"desc1": "Vous souhaitez développer votre activité en Guinée ? STAUNCH prend en charge l'ensemble du processus d'implantation : étude de marché sectorielle, choix de la forme juridique adaptée, immatriculation auprès des autorités, obtention des autorisations et licences nécessaires.",
+		"desc2": "Notre accompagnement va au-delà des aspects juridiques : recherche de locaux, recrutement de votre équipe locale, mise en place de la fiscalité, ouverture de comptes bancaires, conformité réglementaire. Votre arrivée en Guinée se fait sereinement, sans erreurs, avec un partenaire indéfectible à vos côtés.",
+		"totalProject": "20+ Entreprises implantées",
+		"process": {
+			"title": "Notre processus",
+			"titleLarge": "Implantation en Guinée : 4 étapes clés",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "Un processus rigoureux pour une installation sans surprise.",
+			"processItems": [
+				"Étude préalable : marché et faisabilité",
+				"Création juridique de l'entité",
+				"Démarches administratives et licences",
+				"Installation opérationnelle (locaux, équipe, fiscalité)",
+				"Démarrage et accompagnement post-installation"
+			]
+		}
+	},
+	{
+		"id": 5,
+		"title": "Facilitation Institutionnelle",
+		"titleLarge": "Mise en relation avec les institutions et partenaires publics-privés",
+		"img": "/images/service/h1-service-5.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-5.webp",
+		"bgImg2": "/images/service/h3-service-1.webp",
+		"iconName": "tji-executive",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "Réseau institutionnel solide : ministères, agences gouvernementales, partenariats public-privé.",
+		"shortDesc": "Accès privilégié aux institutions guinéennes pour vos démarches et partenariats stratégiques.",
+		"desc1": "Évoluer en Guinée nécessite une compréhension fine du paysage institutionnel. STAUNCH met à votre disposition son réseau solide auprès des ministères, agences gouvernementales, chambres de commerce et organismes publics pour faciliter vos démarches stratégiques.",
+		"desc2": "Nous structurons également des partenariats public-privé d'envergure pour des projets à fort impact économique et social. Notre approche est éthique, transparente et respecte les meilleurs standards de gouvernance internationale.",
+		"totalProject": "15+ Partenariats structurés",
+		"process": {
+			"title": "Notre processus",
+			"titleLarge": "Facilitation institutionnelle : ouvrir les bonnes portes",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "Une approche éthique et structurée pour des relations durables.",
+			"processItems": [
+				"Analyse de vos besoins institutionnels",
+				"Cartographie des interlocuteurs clés",
+				"Mise en relation et préparation des rencontres",
+				"Accompagnement dans les négociations",
+				"Suivi des partenariats dans la durée"
+			]
+		}
+	},
+	{
+		"id": 6,
+		"title": "Réseautage & Partenariats",
+		"titleLarge": "Mise en relation B2B pour accélérer votre croissance",
+		"img": "/images/service/h1-service-6.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-6.webp",
+		"bgImg2": "/images/service/h3-service-1.webp",
+		"iconName": "tji-process",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "Introductions stratégiques avec partenaires, investisseurs, fournisseurs et clients clés.",
+		"shortDesc": "Accédez au réseau STAUNCH d'entrepreneurs et de décideurs en Guinée et Afrique de l'Ouest.",
+		"desc1": "Le succès en affaires repose souvent sur les bonnes connexions. STAUNCH vous ouvre l'accès à son écosystème d'entrepreneurs, d'investisseurs et de décideurs en Guinée et en Afrique de l'Ouest. Nous identifions les partenaires les plus pertinents pour vos objectifs.",
+		"desc2": "Au-delà de la simple mise en relation, nous structurons et facilitons l'élaboration de partenariats commerciaux durables. Événements de networking exclusifs, introductions ciblées, accompagnement dans la négociation : votre réseau devient votre levier de croissance.",
+		"totalProject": "200+ Mises en relation",
+		"process": {
+			"title": "Notre processus",
+			"titleLarge": "Réseautage : créer de la valeur par les bonnes connexions",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "Une approche ciblée et qualitative du networking professionnel.",
+			"processItems": [
+				"Identification de vos cibles stratégiques",
+				"Recherche des bons interlocuteurs",
+				"Introductions personnalisées et qualifiées",
+				"Suivi et facilitation des échanges",
+				"Structuration des partenariats commerciaux"
+			]
+		}
+	},
+	{
+		"id": 7,
+		"title": "Accompagnement Startup",
+		"titleLarge": "De l'idée au financement, structurez votre startup pour réussir",
+		"img": "/images/service/h1-service-2.webp",
+		"imgSm": "/img/icons/services-10-icons-3.svg",
+		"bgImg": "/images/service/h1-service-2.webp",
+		"bgImg2": "/images/service/h3-service-2.webp",
+		"iconName": "tji-strategic",
+		"svg": "/images/icons/service-2.svg",
+
+		"desc": "Diagnostic 360°, structuration juridique et financière, accès aux financements pour startups.",
+		"shortDesc": "Accompagnement complet des porteurs de projet, de la conception à la levée de fonds.",
+		"desc1": "Vous avez une idée de startup ? STAUNCH vous accompagne à toutes les étapes : validation du concept, étude de marché, structuration juridique et financière, élaboration du business plan, préparation des supports de levée de fonds. Notre approche est ancrée dans l'écosystème entrepreneurial africain.",
+		"desc2": "Nous facilitons votre accès aux financements (banques, fonds d'investissement, programmes publics) grâce à notre réseau institutionnel solide en Guinée et en Afrique de l'Ouest.",
+		"totalProject": "30+ Startups accompagnées",
+		"process": {
+			"title": "Notre processus",
+			"titleLarge": "Accompagnement startup : de l'idée au financement",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-2.svg",
+
+			"desc": "Un processus structuré pour maximiser vos chances de succès.",
+			"processItems": [
+				"Validation du concept et étude de marché",
+				"Structuration juridique et business plan",
+				"Préparation à la levée de fonds",
+				"Mise en relation avec investisseurs",
+				"Mentorat post-financement"
+			]
+		}
+	},
+	{
+		"id": 8,
+		"title": "Conseil aux Entreprises",
+		"titleLarge": "Stratégie et optimisation pour PME et grandes entreprises",
+		"img": "/images/service/h1-service-3.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-3.webp",
+		"bgImg2": "/images/service/h3-service-3.webp",
+		"iconName": "tji-business",
+		"svg": "/images/icons/service-3.svg",
+
+		"desc": "Diagnostic organisationnel, plan stratégique 1-3-5 ans, restructuration et transformation.",
+		"shortDesc": "Conseil stratégique pour PME et grandes entreprises souhaitant accélérer leur croissance.",
+		"desc1": "STAUNCH accompagne les entreprises établies dans leur transformation et leur développement. Notre équipe d'experts analyse votre organisation, identifie les leviers de croissance et co-construit avec vous un plan stratégique réaliste et ambitieux.",
+		"desc2": "Du diagnostic organisationnel à la mise en œuvre, nous intervenons sur tous les fronts : stratégie commerciale, optimisation des processus, restructuration, gestion du changement.",
+		"totalProject": "50+ Entreprises conseillées",
+		"process": {
+			"title": "Notre processus",
+			"titleLarge": "Conseil aux entreprises : transformation durable",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-3.svg",
+
+			"desc": "Une démarche éprouvée pour des résultats mesurables.",
+			"processItems": [
+				"Diagnostic organisationnel approfondi",
+				"Élaboration du plan stratégique 1-3-5 ans",
+				"Plan de transformation et conduite du changement",
+				"Mise en œuvre opérationnelle",
+				"Suivi des indicateurs de performance"
+			]
+		}
+	}
+]

@@ -1,0 +1,100 @@
+[
+	{
+		"id": 1,
+		"name": "Mohamed Bashir Jalloh",
+		"desig": "Fondateur & CEO",
+		"img": "/images/team/team-1.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 2,
+		"name": "Direction Coaching",
+		"desig": "Pôle MB-JALLOH",
+		"img": "/images/team/team-2.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 3,
+		"name": "Direction Conseil",
+		"desig": "Pôle Entreprises",
+		"img": "/images/team/team-3.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 4,
+		"name": "Direction Implantation",
+		"desig": "Pôle Guinée",
+		"img": "/images/team/team-4.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 5,
+		"name": "Responsable Startup",
+		"desig": "Pôle Accompagnement",
+		"img": "/images/team/team-5.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 6,
+		"name": "Responsable Institutionnel",
+		"desig": "Pôle Facilitation",
+		"img": "/images/team/team-6.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 7,
+		"name": "Responsable Réseau",
+		"desig": "Pôle Partenariats",
+		"img": "/images/team/team-7.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 8,
+		"name": "Direction Stratégie",
+		"desig": "Conseil Senior",
+		"img": "/images/team/team-8.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 9,
+		"name": "Responsable Formation",
+		"desig": "Pôle MB-JALLOH",
+		"img": "/images/team/team-5.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 10,
+		"name": "Responsable Communication",
+		"desig": "Cabinet STAUNCH",
+		"img": "/images/team/team-6.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 11,
+		"name": "Responsable Partenariats",
+		"desig": "Cabinet STAUNCH",
+		"img": "/images/team/team-7.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 12,
+		"name": "Responsable Marketing",
+		"desig": "Cabinet STAUNCH",
+		"img": "/images/team/team-8.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 13,
+		"name": "Mohamed Bashir Jalloh",
+		"desig": "Fondateur & CEO",
+		"img": "/images/team/team-1.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	},
+	{
+		"id": 14,
+		"name": "Direction Coaching",
+		"desig": "Pôle MB-JALLOH",
+		"img": "/images/team/team-2.webp",
+		"imgLarge": "/images/team/team-single.webp"
+	}
+]

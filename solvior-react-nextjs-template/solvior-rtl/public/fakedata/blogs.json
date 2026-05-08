@@ -1,0 +1,946 @@
+[
+	{
+		"id": 1,
+		"title": "حلول مبتكرة لنجاح الأعمال الديناميكي",
+		"img": "/img/blog/1.jpg",
+		"img1": "/images/blog/blog-thumb-1.webp",
+		"img2": "/images/blog/h2-blog-1.webp",
+		"img3": "/images/blog/blog-thumb-5.webp",
+		"img4": "/images/blog/blog-thumb-1.webp",
+		"img5": "/images/blog/tj-blog-8.webp",
+		"img6": "/images/blog/tj-blog-8.webp",
+		"detailsImg": "/images/blog/tj-blog-1.webp",
+		"smallImg": "/img/blog/post-thumb-1.jpg",
+		"desc": "مهمتنا هي تمكين الشركات من جميع الأحجام من الازدهار في سوق يتغير باستمرار. نحن ملتزمون بتقديم قيمة استثنائية من خلال استراتيجيات مبتكرة ونهج مبتكر. استشاراتنا تساعد الشركات على النمو والازدهار، ملتزمين بتقديم أفضل القيم والاستراتيجيات.",
+		"desc1": "مع فتح الشركات لفرص النمو في العصر الرقمي، أصبح الاستفادة من قوة الحوسبة السحابية أمرًا ضروريًا. تقدم أمازون لخدمات الويب (AWS) برنامج شريك كفاءات SaaS، الذي يكرّم الشركات ذات الخبرة الاستثنائية في تقديم حلول البرمجيات كخدمة على منصة AWS.",
+		"desc2": "في هذه المدونة، سوف نتعمق في الاستراتيجيات والممارسات الفضلى والعوامل الرئيسية التي سرّعت نمو أعمالنا ومنحتنا مكانة شريك كفاءات SaaS المرموقة من AWS.",
+		"date": "28 يوليو 2025",
+		"day": 28,
+		"month": "يوليو",
+		"category": "العلامة التجارية",
+		"tags": ["العلامة التجارية", "الأعمال"],
+		"author_role": "تحليل",
+		"author": "جيرولد",
+		"status": "دليل تعليمي",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "المسؤول",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 أكتوبر 2025"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "تعليقات",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "جين دو",
+				"img": "/img/blog/user-1.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "3 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "إنجلترا مليئة بمناظر طبيعية خضراء مورقة، وقرى ريفية نابضة بالحياة، وتزخر بالإنسانية. بلد جنوب آسيوي يقدم الكثير للزوار مع تنوع الحياة البرية.",
+				"replies": [
+					{
+						"authorName": "فريد بلوجز",
+						"img": "/img/blog/user-2.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "3 فبراير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "من المعروف أن القارئ قد يتشتت عند قراءة محتوى الصفحة بسبب شكلها وتصميمها. استخدام Lorem Ipsum يوفر توزيعًا طبيعيًا للحروف، بدلاً من المحتوى العشوائي."
+					},
+					{
+						"authorName": "جين بلوجز",
+						"img": "/img/blog/user-3.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "13 يناير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "لكن يجب أن أشرح لكم كيف وُلدت هذه الفكرة الخاطئة حول إدانة المتعة والثناء على الألم، وسأعطيكم شرحًا كاملًا."
+					}
+				]
+			},
+			{
+				"authorName": "ثيم ديموز",
+				"img": "/img/blog/user-4.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "20 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "هناك العديد من نسخ فقرات Lorem Ipsum المتاحة، ولكن الغالبية قد تعرضت لتعديلات بطريقة ما، سواء بواسطة مزحة مضافة أو كلمات عشوائية، والتي قد تبدو غير منطقية. إذا كنت ستستخدم فقرة، تأكد من عدم وجود أي محتوى محرج مخفي."
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "ما الذي يجب أن يعرفه المستشارون عن العمل مع المنظمات غير الربحية",
+		"img": "/img/blog/2.jpg",
+		"img1": "/images/blog/blog-thumb-2.webp",
+		"img2": "/images/blog/h2-blog-2.webp",
+		"img3": "/images/blog/blog-thumb-2.webp",
+		"img4": "/images/blog/h2-blog-2.webp",
+		"img5": "/images/blog/tj-blog-1.webp",
+		"img6": "/images/blog/tj-blog-2.webp",
+		"detailsImg": "/images/blog/tj-blog-2.webp",
+		"smallImg": "",
+		"desc": "مهمتنا هي تمكين الشركات من جميع الأحجام من الازدهار في سوق يتغير باستمرار. نحن ملتزمون بتقديم قيمة استثنائية من خلال استراتيجيات مبتكرة ونهج مبتكر. استشاراتنا تساعد الشركات على النمو والازدهار، ملتزمين بتقديم أفضل القيم والاستراتيجيات.",
+		"desc2": "في هذه المدونة، سوف نتعمق في الاستراتيجيات والممارسات الفضلى والعوامل الرئيسية التي سرّعت نمو أعمالنا ومنحتنا مكانة شريك كفاءات SaaS المرموقة من AWS.",
+		"date": "6 نوفمبر 2025",
+		"day": 6,
+		"month": "نوفمبر",
+		"category": "الأعمال",
+		"tags": ["الأعمال", "تصميم"],
+		"author_name": "سيلفستر سكوت",
+		"author_role": "مشرف",
+		"author": "جيرولد",
+		"status": "نصائح",
+		"isBlogQuote": true,
+		"iconId": "f10e",
+		"popupVideo": "https://www.youtube.com/watch?v=eEzD-Y97ges",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "المسؤول",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 نوفمبر 2025"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "تعليقات",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "جين دو",
+				"img": "/img/blog/user-1.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "3 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "إنجلترا مليئة بمناظر طبيعية خضراء مورقة، وقرى ريفية نابضة بالحياة، وتزخر بالإنسانية. بلد جنوب آسيوي يقدم الكثير للزوار مع تنوع الحياة البرية.",
+				"replies": [
+					{
+						"authorName": "فريد بلوجز",
+						"img": "/img/blog/user-2.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "3 فبراير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "من المعروف أن القارئ قد يتشتت عند قراءة محتوى الصفحة بسبب شكلها وتصميمها. استخدام Lorem Ipsum يوفر توزيعًا طبيعيًا للحروف، بدلاً من المحتوى العشوائي."
+					},
+					{
+						"authorName": "جين بلوجز",
+						"img": "/img/blog/user-3.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "13 يناير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "لكن يجب أن أشرح لكم كيف وُلدت هذه الفكرة الخاطئة حول إدانة المتعة والثناء على الألم، وسأعطيكم شرحًا كاملًا."
+					}
+				]
+			},
+			{
+				"authorName": "ثيم ديموز",
+				"img": "/img/blog/user-4.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "20 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "هناك العديد من نسخ فقرات Lorem Ipsum المتاحة، ولكن الغالبية قد تعرضت لتعديلات بطريقة ما، سواء بواسطة مزحة مضافة أو كلمات عشوائية، والتي قد تبدو غير منطقية. إذا كنت ستستخدم فقرة، تأكد من عدم وجود أي محتوى محرج مخفي."
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "لماذا يحتاج كل رائد أعمال إلى تسويق رقمي قوي",
+		"img": "/img/blog/2.jpg",
+		"img1": "/images/blog/blog-thumb-3.webp",
+		"img2": "/images/blog/h2-blog-3.webp",
+		"img3": "/images/blog/blog-thumb-3.webp",
+		"img4": "/images/blog/h2-blog-3.webp",
+		"img5": "/images/blog/tj-blog-2.webp",
+		"img6": "/images/blog/tj-blog-1.webp",
+		"detailsImg": "/images/blog/tj-blog-3.webp",
+		"smallImg": "/img/blog/post-thumb-2.jpg",
+		"desc": "مهمتنا هي تمكين الشركات من جميع الأحجام من الازدهار في سوق يتغير باستمرار. نحن ملتزمون بتقديم قيمة استثنائية من خلال استراتيجيات مبتكرة ونهج مبتكر. استشاراتنا تساعد الشركات على النمو والازدهار، ملتزمين بتقديم أفضل القيم والاستراتيجيات.",
+		"desc1": "مع اكتشاف الشركات لفرص النمو في العصر الرقمي، أصبح الاستفادة من قوة الحوسبة السحابية أمرًا ضروريًا. تقدم خدمات أمازون ويب (AWS) برنامج شريك كفاءات SaaS من AWS، الذي يميز الشركات ذات الخبرة الاستثنائية في تقديم حلول البرمجيات كخدمة على منصة AWS.",
+		"desc2": "في هذه المدونة، سنتناول الاستراتيجيات والممارسات الفضلى والعوامل الأساسية التي سرّعت نمو أعمالنا ومنحتنا مكانة شريك كفاءات SaaS المرموقة من AWS.",
+		"date": "24 أغسطس 2025",
+		"day": 24,
+		"month": "أغسطس",
+		"category": "استشارات",
+		"tags": ["تصميم", "تسويق", "استراتيجية"],
+		"author_role": "مشرف",
+		"author": "جيرولد",
+		"status": "نصائح",
+		"slider": [
+			"/images/blog/tj-blog-5.webp",
+			"/images/blog/tj-blog-6.webp",
+			"/images/blog/tj-blog-7.webp"
+		],
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "المسؤول",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 نوفمبر 2025"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "تعليقات",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "جين دو",
+				"img": "/img/blog/user-1.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "3 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "إنجلترا مليئة بمناظر طبيعية خضراء مورقة، وقرى ريفية نابضة بالحياة، وتزخر بالإنسانية. بلد جنوب آسيوي يقدم الكثير للزوار مع تنوع الحياة البرية.",
+				"replies": [
+					{
+						"authorName": "فريد بلوجز",
+						"img": "/img/blog/user-2.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "3 فبراير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "من المعروف أن القارئ قد يتشتت عند قراءة محتوى الصفحة بسبب شكلها وتصميمها. استخدام Lorem Ipsum يوفر توزيعًا طبيعيًا للحروف، بدلاً من المحتوى العشوائي."
+					},
+					{
+						"authorName": "جين بلوجز",
+						"img": "/img/blog/user-3.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "13 يناير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "لكن يجب أن أشرح لكم كيف وُلدت هذه الفكرة الخاطئة حول إدانة المتعة والثناء على الألم، وسأعطيكم شرحًا كاملًا."
+					}
+				]
+			},
+			{
+				"authorName": "ثيم ديموز",
+				"img": "/img/blog/user-4.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "20 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "هناك العديد من نسخ فقرات Lorem Ipsum المتاحة، ولكن الغالبية قد تعرضت لتعديلات بطريقة ما، سواء بواسطة مزحة مضافة أو كلمات عشوائية، والتي قد تبدو غير منطقية. إذا كنت ستستخدم فقرة، تأكد من عدم وجود أي محتوى محرج مخفي."
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "إتقان إدارة التغيير: الدروس الأساسية للأعمال",
+		"img": "/img/blog/3.jpg",
+		"img1": "/images/blog/blog-thumb-4.webp",
+		"img2": "/images/blog/h2-blog-1.webp",
+		"img3": "/images/blog/blog-thumb-4.webp",
+		"img4": "/images/blog/blog-thumb-1.webp",
+		"img5": "/images/blog/tj-blog-8.webp",
+		"img6": "/images/blog/tj-blog-1.webp",
+		"detailsImg": "/images/blog/tj-blog-4.webp",
+		"smallImg": "/img/blog/post-thumb-3.jpg",
+		"desc": "مهمتنا هي تمكين الشركات من جميع الأحجام من النجاح في سوق يتغير باستمرار. نحن ملتزمون بتقديم قيمة استثنائية من خلال استراتيجيات مبتكرة ونهج إبداعي. استشاراتنا تساعد الشركات على النمو والازدهار، ملتزمين بتقديم أفضل القيم والاستراتيجيات.",
+		"desc1": "مع اكتشاف الشركات لفرص النمو في العصر الرقمي، أصبح الاستفادة من قوة الحوسبة السحابية أمرًا أساسيًا. تقدم خدمات أمازون ويب (AWS) برنامج شريك كفاءات SaaS من AWS، الذي يميز الشركات ذات الخبرة الاستثنائية في تقديم حلول البرمجيات كخدمة على منصة AWS.",
+		"desc2": "في هذه المدونة، سنتناول الاستراتيجيات والممارسات الفضلى والعوامل الأساسية التي سرّعت نمو أعمالنا ومنحتنا مكانة شريك كفاءات SaaS المرموقة من AWS.",
+		"date": "01 نوفمبر 2025",
+		"day": 28,
+		"month": "أغسطس",
+		"category": "الابتكارات",
+		"tags": ["أعمال", "تصميم", "تسويق"],
+		"author_role": "مشرف",
+		"author": "جيرولد",
+		"status": "عروض مجانية",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "المسؤول",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 ديسمبر 2025"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "تعليقات",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "جين دو",
+				"img": "/img/blog/user-1.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "3 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "إنجلترا مليئة بالمناظر الطبيعية الخضراء المورقة، والقرى الريفية، وتزخر بالحياة البشرية. بلد جنوب آسيوي يقدم الكثير للزوار من خلال تنوع الحياة البرية.",
+				"replies": [
+					{
+						"authorName": "فريد بلوجز",
+						"img": "/img/blog/user-2.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "3 فبراير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "من المعروف أن القارئ قد يتشتت عند قراءة محتوى الصفحة بسبب تنسيقها. استخدام Lorem Ipsum يضمن توزيعًا طبيعيًا للحروف بدلاً من المحتوى العشوائي."
+					},
+					{
+						"authorName": "جين بلوجز",
+						"img": "/img/blog/user-3.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "13 يناير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "ولكن يجب أن أشرح لكم كيف وُلدت هذه الفكرة الخاطئة حول إدانة المتعة والثناء على الألم، وسأعطيكم شرحًا كاملًا."
+					}
+				]
+			},
+			{
+				"authorName": "ثيم ديموز",
+				"img": "/img/blog/user-4.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "20 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "هناك العديد من نسخ فقرات Lorem Ipsum المتاحة، ولكن الغالبية تعرضت لتعديلات مختلفة، سواء بمزحات مضافة أو كلمات عشوائية، والتي قد تبدو غير منطقية. تأكد عند استخدام أي فقرة من عدم وجود محتوى محرج مخفي."
+			}
+		]
+	},
+	{
+		"id": 5,
+		"title": "استغلال التحول الرقمي: خارطة طريق للأعمال",
+		"img": "/img/blog/1.jpg",
+		"img1": "/images/blog/blog-thumb-1.webp",
+		"img2": "/images/blog/h2-blog-1.webp",
+		"img3": "/images/blog/blog-thumb-1.webp",
+		"img4": "/images/blog/blog-thumb-1.webp",
+		"img5": "/images/blog/tj-blog-8.webp",
+		"img6": "/images/blog/tj-blog-1.webp",
+		"detailsImg": "/images/blog/tj-blog-5.webp",
+		"smallImg": "",
+		"desc": "مهمتنا هي تمكين الشركات من جميع الأحجام من النجاح في سوق دائم التغير. نحن ملتزمون بتقديم قيمة استثنائية من خلال استراتيجيات مبتكرة ونهج إبداعي. استشاراتنا تساعد الشركات على النمو والازدهار، ملتزمين بتقديم أفضل القيم والاستراتيجيات.",
+		"desc1": "مع اكتشاف الشركات لفرص النمو في العصر الرقمي، أصبح الاستفادة من قوة الحوسبة السحابية أمرًا أساسيًا. تقدم خدمات أمازون ويب (AWS) برنامج شريك كفاءات SaaS من AWS، الذي يميز الشركات ذات الخبرة الاستثنائية في تقديم حلول البرمجيات كخدمة على منصة AWS.",
+		"desc2": "في هذه المدونة، سنتناول الاستراتيجيات والممارسات الفضلى والعوامل الأساسية التي سرّعت نمو أعمالنا ومنحتنا مكانة شريك كفاءات SaaS المرموقة من AWS.",
+		"date": "01 نوفمبر 2025",
+		"day": 28,
+		"month": "أغسطس",
+		"category": "الإدارة",
+		"tags": ["العلامة التجارية", "تصميم", "استراتيجية"],
+		"author_role": "مشرف",
+		"author": "جيرولد",
+		"status": "دروس تعليمية",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "المسؤول",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 أكتوبر 2025"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "تعليقات",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "جين دو",
+				"img": "/img/blog/user-1.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "3 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "إنجلترا مليئة بالمناظر الطبيعية الخضراء المورقة، والقرى الريفية، وتزخر بالحياة البشرية. بلد جنوب آسيوي يقدم الكثير للزوار من خلال تنوع الحياة البرية.",
+				"replies": [
+					{
+						"authorName": "فريد بلوجز",
+						"img": "/img/blog/user-2.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "3 فبراير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "من المعروف أن القارئ قد يتشتت عند قراءة محتوى الصفحة بسبب تنسيقها. استخدام Lorem Ipsum يضمن توزيعًا طبيعيًا للحروف بدلاً من المحتوى العشوائي."
+					},
+					{
+						"authorName": "جين بلوجز",
+						"img": "/img/blog/user-3.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "13 يناير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "ولكن يجب أن أشرح لكم كيف وُلدت هذه الفكرة الخاطئة حول إدانة المتعة والثناء على الألم، وسأعطيكم شرحًا كاملًا."
+					}
+				]
+			},
+			{
+				"authorName": "ثيم ديموز",
+				"img": "/img/blog/user-4.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "20 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "هناك العديد من نسخ فقرات Lorem Ipsum المتاحة، ولكن الغالبية تعرضت لتعديلات مختلفة، سواء بمزحات مضافة أو كلمات عشوائية، والتي قد تبدو غير منطقية. تأكد عند استخدام أي فقرة من عدم وجود محتوى محرج مخفي."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"title": "قياس النجاح: مؤشرات الأداء الأساسية لكل شركة",
+		"img": "/img/blog/4.jpg",
+		"img1": "/images/blog/blog-thumb-1.webp",
+		"img2": "/images/blog/h2-blog-1.webp",
+		"img3": "/images/blog/blog-thumb-1.webp",
+		"img4": "/images/blog/blog-thumb-1.webp",
+		"img5": "/images/blog/tj-blog-8.webp",
+		"img6": "/images/blog/tj-blog-1.webp",
+		"detailsImg": "/images/blog/tj-blog-6.webp",
+		"smallImg": "",
+		"desc": "مهمتنا هي تمكين الشركات من جميع الأحجام من النجاح في سوق دائم التغير. نحن ملتزمون بتقديم قيمة استثنائية من خلال استراتيجيات مبتكرة ونهج إبداعي. استشاراتنا تساعد الشركات على النمو والازدهار، ملتزمين بتقديم أفضل القيم والاستراتيجيات.",
+		"desc1": "مع اكتشاف الشركات لفرص النمو في العصر الرقمي، أصبح الاستفادة من قوة الحوسبة السحابية أمرًا أساسيًا. تقدم خدمات أمازون ويب (AWS) برنامج شريك كفاءات SaaS من AWS، الذي يميز الشركات ذات الخبرة الاستثنائية في تقديم حلول البرمجيات كخدمة على منصة AWS.",
+		"desc2": "في هذه المدونة، سنتناول الاستراتيجيات والممارسات الفضلى والعوامل الأساسية التي سرّعت نمو أعمالنا ومنحتنا مكانة شريك كفاءات SaaS المرموقة من AWS.",
+		"date": "01 نوفمبر 2025",
+		"day": 28,
+		"month": "أغسطس",
+		"category": "التسويق",
+		"tags": ["الأعمال", "التسويق"],
+		"author_role": "مشرف",
+		"author": "جيرولد",
+		"status": "دروس تعليمية",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "المسؤول",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 أكتوبر 2025"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "تعليقات",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "جين دو",
+				"img": "/img/blog/user-1.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "3 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "إنجلترا مليئة بالمناظر الطبيعية الخضراء المورقة، والقرى الريفية، وتزخر بالحياة البشرية. بلد جنوب آسيوي يقدم الكثير للزوار من خلال تنوع الحياة البرية.",
+				"replies": [
+					{
+						"authorName": "فريد بلوجز",
+						"img": "/img/blog/user-2.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "3 فبراير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "من المعروف أن القارئ قد يتشتت عند قراءة محتوى الصفحة بسبب تنسيقها. استخدام Lorem Ipsum يضمن توزيعًا طبيعيًا للحروف بدلاً من المحتوى العشوائي."
+					},
+					{
+						"authorName": "جين بلوجز",
+						"img": "/img/blog/user-3.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "13 يناير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "ولكن يجب أن أشرح لكم كيف وُلدت هذه الفكرة الخاطئة حول إدانة المتعة والثناء على الألم، وسأعطيكم شرحًا كاملًا."
+					}
+				]
+			},
+			{
+				"authorName": "ثيم ديموز",
+				"img": "/img/blog/user-4.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "20 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "هناك العديد من نسخ فقرات Lorem Ipsum المتاحة، ولكن الغالبية تعرضت لتعديلات مختلفة، سواء بمزحات مضافة أو كلمات عشوائية، والتي قد تبدو غير منطقية. تأكد عند استخدام أي فقرة من عدم وجود محتوى محرج مخفي."
+			}
+		]
+	},
+	{
+		"id": 7,
+		"title": "كيفية التنقل: نصائح استشارية للتحول",
+		"img": "/img/blog/1.jpg",
+		"img1": "/images/blog/blog-thumb-1.webp",
+		"img2": "/images/blog/h2-blog-1.webp",
+		"img3": "/images/blog/blog-thumb-1.webp",
+		"img4": "/images/blog/blog-thumb-1.webp",
+		"img5": "/images/blog/tj-blog-8.webp",
+		"img6": "/images/blog/tj-blog-1.webp",
+		"detailsImg": "/images/blog/tj-blog-7.webp",
+		"smallImg": "",
+		"desc": "مهمتنا هي تمكين الشركات من جميع الأحجام من النجاح في سوق دائم التغير. نحن ملتزمون بتقديم قيمة استثنائية من خلال استراتيجيات مبتكرة ونهج إبداعي. استشاراتنا تساعد الشركات على النمو والازدهار، ملتزمين بتقديم أفضل القيم والاستراتيجيات.",
+		"desc1": "مع اكتشاف الشركات لفرص النمو في العصر الرقمي، أصبح الاستفادة من قوة الحوسبة السحابية أمرًا أساسيًا. تقدم خدمات أمازون ويب (AWS) برنامج شريك كفاءات SaaS من AWS، الذي يميز الشركات ذات الخبرة الاستثنائية في تقديم حلول البرمجيات كخدمة على منصة AWS.",
+		"desc2": "في هذه المدونة، سنتناول الاستراتيجيات والممارسات الفضلى والعوامل الأساسية التي سرّعت نمو أعمالنا ومنحتنا مكانة شريك كفاءات SaaS المرموقة من AWS.",
+		"date": "01 نوفمبر 2025",
+		"day": 28,
+		"month": "أغسطس",
+		"category": "العلامة التجارية",
+		"tags": ["التسويق", "الاستراتيجية"],
+		"author_role": "مشرف",
+		"author": "جيرولد",
+		"status": "دروس تعليمية",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "المسؤول",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 أكتوبر 2025"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "تعليقات",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "جين دو",
+				"img": "/img/blog/user-1.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "3 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "إنجلترا مليئة بالمناظر الطبيعية الخضراء المورقة، والقرى الريفية، وتزخر بالحياة البشرية. بلد جنوب آسيوي يقدم الكثير للزوار من خلال تنوع الحياة البرية.",
+				"replies": [
+					{
+						"authorName": "فريد بلوجز",
+						"img": "/img/blog/user-2.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "3 فبراير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "من المعروف أن القارئ قد يتشتت عند قراءة محتوى الصفحة بسبب تنسيقها. استخدام Lorem Ipsum يضمن توزيعًا طبيعيًا للحروف بدلاً من المحتوى العشوائي."
+					},
+					{
+						"authorName": "جين بلوجز",
+						"img": "/img/blog/user-3.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "13 يناير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "ولكن يجب أن أشرح لكم كيف وُلدت هذه الفكرة الخاطئة حول إدانة المتعة والثناء على الألم، وسأعطيكم شرحًا كاملًا."
+					}
+				]
+			},
+			{
+				"authorName": "ثيم ديموز",
+				"img": "/img/blog/user-4.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "20 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "هناك العديد من نسخ فقرات Lorem Ipsum المتاحة، ولكن الغالبية تعرضت لتعديلات مختلفة، سواء بمزحات مضافة أو كلمات عشوائية، والتي قد تبدو غير منطقية. تأكد عند استخدام أي فقرة من عدم وجود محتوى محرج مخفي."
+			}
+		]
+	},
+	{
+		"id": 8,
+		"title": "الابتكار في العمل: أمثلة على نجاح الاستشارات",
+		"img": "/img/blog/2.jpg",
+		"img1": "/images/blog/blog-thumb-1.webp",
+		"img2": "/images/blog/h2-blog-1.webp",
+		"img3": "/images/blog/blog-thumb-1.webp",
+		"img4": "/images/blog/blog-thumb-1.webp",
+		"img5": "/images/blog/tj-blog-8.webp",
+		"img6": "/images/blog/tj-blog-1.webp",
+		"detailsImg": "/images/blog/tj-blog-2.webp",
+		"smallImg": "",
+		"desc": "مهمتنا هي تمكين الشركات من جميع الأحجام من النجاح في سوق دائم التغير. نحن ملتزمون بتقديم قيمة استثنائية من خلال استراتيجيات مبتكرة ونهج إبداعي. استشاراتنا تساعد الشركات على النمو والازدهار، ملتزمين بتقديم أفضل القيم والاستراتيجيات.",
+		"desc1": "مع اكتشاف الشركات لفرص النمو في العصر الرقمي، أصبح الاستفادة من قوة الحوسبة السحابية أمرًا أساسيًا. تقدم خدمات أمازون ويب (AWS) برنامج شريك كفاءات SaaS من AWS، الذي يميز الشركات ذات الخبرة الاستثنائية في تقديم حلول البرمجيات كخدمة على منصة AWS.",
+		"desc2": "في هذه المدونة، سنتناول الاستراتيجيات والممارسات الفضلى والعوامل الأساسية التي سرّعت نمو أعمالنا ومنحتنا مكانة شريك كفاءات SaaS المرموقة من AWS.",
+		"date": "01 نوفمبر 2025",
+		"day": 28,
+		"month": "أغسطس",
+		"category": "الأعمال",
+		"tags": ["تصميم", "تسويق"],
+		"author_role": "مشرف",
+		"author": "جيرولد",
+		"status": "دروس تعليمية",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "المسؤول",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 أكتوبر 2025"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "تعليقات",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "جين دو",
+				"img": "/img/blog/user-1.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "3 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "إنجلترا مليئة بالمناظر الطبيعية الخضراء المورقة، والقرى الريفية، وتزخر بالحياة البشرية. بلد جنوب آسيوي يقدم الكثير للزوار من خلال تنوع الحياة البرية.",
+				"replies": [
+					{
+						"authorName": "فريد بلوجز",
+						"img": "/img/blog/user-2.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "3 فبراير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "من المعروف أن القارئ قد يتشتت عند قراءة محتوى الصفحة بسبب تنسيقها. استخدام Lorem Ipsum يضمن توزيعًا طبيعيًا للحروف بدلاً من المحتوى العشوائي."
+					},
+					{
+						"authorName": "جين بلوجز",
+						"img": "/img/blog/user-3.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "13 يناير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "ولكن يجب أن أشرح لكم كيف وُلدت هذه الفكرة الخاطئة حول إدانة المتعة والثناء على الألم، وسأعطيكم شرحًا كاملًا."
+					}
+				]
+			},
+			{
+				"authorName": "ثيم ديموز",
+				"img": "/img/blog/user-4.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "20 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "هناك العديد من نسخ فقرات Lorem Ipsum المتاحة، ولكن الغالبية تعرضت لتعديلات مختلفة، سواء بمزحات مضافة أو كلمات عشوائية، والتي قد تبدو غير منطقية. تأكد عند استخدام أي فقرة من عدم وجود محتوى محرج مخفي."
+			}
+		]
+	},
+	{
+		"id": 9,
+		"title": "حلول مبتكرة لنجاح الأعمال: ديناميكية تبدأ من اليوم",
+		"img": "/img/blog/3.jpg",
+		"img1": "/images/blog/blog-thumb-1.webp",
+		"img2": "/images/blog/h2-blog-1.webp",
+		"img3": "/images/blog/blog-thumb-1.webp",
+		"img4": "/images/blog/blog-thumb-1.webp",
+		"img5": "/images/blog/tj-blog-8.webp",
+		"img6": "/images/blog/tj-blog-1.webp",
+		"detailsImg": "/images/blog/tj-blog-4.webp",
+		"smallImg": "",
+		"desc": "مهمتنا هي تمكين الشركات من جميع الأحجام من النجاح في سوق دائم التغير. نحن ملتزمون بتقديم قيمة استثنائية من خلال استراتيجيات مبتكرة ونهج إبداعي. استشاراتنا تساعد الشركات على النمو والازدهار، ملتزمين بتقديم أفضل القيم والاستراتيجيات.",
+		"desc1": "مع اكتشاف الشركات لفرص النمو في العصر الرقمي، أصبح الاستفادة من قوة الحوسبة السحابية أمرًا أساسيًا. تقدم خدمات أمازون ويب (AWS) برنامج شريك كفاءات SaaS من AWS، الذي يميز الشركات ذات الخبرة الاستثنائية في تقديم حلول البرمجيات كخدمة على منصة AWS.",
+		"desc2": "في هذه المدونة، سنتناول الاستراتيجيات والممارسات الفضلى والعوامل الأساسية التي سرّعت نمو أعمالنا ومنحتنا مكانة شريك كفاءات SaaS المرموقة من AWS.",
+		"date": "01 نوفمبر 2025",
+		"day": 28,
+		"month": "أغسطس",
+		"category": "استشارات",
+		"tags": ["أعمال", "تصميم", "تسويق", "استراتيجية"],
+		"author_role": "مشرف",
+		"author": "جيرولد",
+		"status": "دروس تعليمية",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "المسؤول",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 أكتوبر 2025"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "تعليقات",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "جين دو",
+				"img": "/img/blog/user-1.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "3 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "إنجلترا مليئة بالمناظر الطبيعية الخضراء المورقة، والقرى الريفية، وتزخر بالحياة البشرية. بلد جنوب آسيوي يقدم الكثير للزوار من خلال تنوع الحياة البرية.",
+				"replies": [
+					{
+						"authorName": "فريد بلوجز",
+						"img": "/img/blog/user-2.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "3 فبراير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "من المعروف أن القارئ قد يتشتت عند قراءة محتوى الصفحة بسبب تنسيقها. استخدام Lorem Ipsum يضمن توزيعًا طبيعيًا للحروف بدلاً من المحتوى العشوائي."
+					},
+					{
+						"authorName": "جين بلوجز",
+						"img": "/img/blog/user-3.jpg",
+						"img1": "/images/blog/blog-thumb-1.webp",
+						"img2": "/images/blog/h2-blog-1.webp",
+						"img3": "/images/blog/blog-thumb-1.webp",
+						"img4": "/images/blog/blog-thumb-1.webp",
+						"img5": "/images/blog/tj-blog-8.webp",
+						"img6": "/images/blog/tj-blog-1.webp",
+						"date": "13 يناير 2025",
+						"day": 28,
+						"month": "أغسطس",
+						"smallImg": "",
+						"desc": "ولكن يجب أن أشرح لكم كيف وُلدت هذه الفكرة الخاطئة حول إدانة المتعة والثناء على الألم، وسأعطيكم شرحًا كاملًا."
+					}
+				]
+			},
+			{
+				"authorName": "ثيم ديموز",
+				"img": "/img/blog/user-4.jpg",
+				"img1": "/images/blog/blog-thumb-1.webp",
+				"img2": "/images/blog/h2-blog-1.webp",
+				"img3": "/images/blog/blog-thumb-1.webp",
+				"img4": "/images/blog/blog-thumb-1.webp",
+				"img5": "/images/blog/tj-blog-8.webp",
+				"img6": "/images/blog/tj-blog-1.webp",
+				"date": "20 يناير 2025",
+				"day": 28,
+				"month": "أغسطس",
+				"smallImg": "",
+				"desc": "هناك العديد من نسخ فقرات Lorem Ipsum المتاحة، ولكن الغالبية تعرضت لتعديلات مختلفة، سواء بمزحات مضافة أو كلمات عشوائية، والتي قد تبدو غير منطقية. تأكد عند استخدام أي فقرة من عدم وجود محتوى محرج مخفي."
+			}
+		]
+	}
+]

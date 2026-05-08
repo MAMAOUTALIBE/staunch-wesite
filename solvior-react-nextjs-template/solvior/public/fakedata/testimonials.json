@@ -1,0 +1,68 @@
+[
+	{
+		"id": 1,
+		"authorName": "Aïssatou D.",
+		"authorDesig": "Fondatrice, AgriTech Conakry",
+		"img": "/images/testimonial/h1-test-1.webp",
+		"img2": "/images/testimonial/h3-test-1.png",
+		"logoImg": "/img/testimonials/logo/1.png",
+		"logoImgLight": "/img/testimonials/logo/1-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "Grâce à STAUNCH, nous avons structuré notre startup et obtenu notre premier financement en moins de 6 mois. Une équipe vraiment indéfectible, à l'image de leur nom. Leur connaissance fine de l'écosystème guinéen nous a fait gagner un temps précieux."
+	},
+	{
+		"id": 2,
+		"authorName": "Karim B.",
+		"authorDesig": "Directeur Afrique, Groupe européen",
+		"img": "/images/testimonial/h1-test-2.webp",
+		"img2": "/images/testimonial/h1-test-2.webp",
+		"logoImg": "/img/testimonials/logo/2.png",
+		"logoImgLight": "/img/testimonials/logo/2-dark.png",
+		"thumbImg": "/img/testimonials/user/h10-test.png",
+		"desc": "L'accompagnement à l'implantation en Guinée a été précieux. Toutes les démarches administratives ont été gérées avec professionnalisme. Aucune surprise désagréable. STAUNCH a été notre partenaire indéfectible du premier au dernier jour."
+	},
+	{
+		"id": 3,
+		"authorName": "Mamadou S.",
+		"authorDesig": "Entrepreneur, secteur Tech",
+		"img": "/images/testimonial/h6-test-1.webp",
+		"img2": "/images/testimonial/h3-test-3.png",
+		"logoImg": "/img/testimonials/logo/1.png",
+		"logoImgLight": "/img/testimonials/logo/1-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "Le coaching MB-JALLOH m'a permis de clarifier ma vision et de construire un plan d'action concret. Six mois plus tard, mon entreprise est lancée et rentable. Une approche structurée, humaine et efficace."
+	},
+	{
+		"id": 4,
+		"authorName": "Fatoumata C.",
+		"authorDesig": "Directrice générale, PME industrielle",
+		"img": "/images/testimonial/h3-test-3.png",
+		"img2": "/images/testimonial/h6-test-1.webp",
+		"logoImg": "/img/testimonials/logo/2.png",
+		"logoImgLight": "/img/testimonials/logo/2-dark.png",
+		"thumbImg": "/img/testimonials/user/h10-test.png",
+		"desc": "Le diagnostic organisationnel proposé par STAUNCH a transformé notre entreprise. Le plan stratégique 1-3-5 ans nous donne enfin une vision claire pour piloter notre croissance avec sérénité."
+	},
+	{
+		"id": 5,
+		"authorName": "Ibrahima T.",
+		"authorDesig": "Directeur des opérations",
+		"img": "/images/testimonial/h3-test-4.png",
+		"img2": "/images/testimonial/h3-test-1.png",
+		"logoImg": "/img/testimonials/logo/1.png",
+		"logoImgLight": "/img/testimonials/logo/1-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "STAUNCH a su mobiliser le bon réseau institutionnel pour notre projet. Les introductions ciblées et l'accompagnement dans les négociations ont fait toute la différence. Un partenariat de confiance."
+	},
+	{
+		"id": 6,
+		"authorName": "Awa N.",
+		"authorDesig": "Cheffe de projet, ONG internationale",
+		"img": "/images/testimonial/h6-test-1.webp",
+		"img2": "/images/testimonial/h3-test-2.png",
+		"logoImg": "/img/testimonials/logo/2.png",
+		"logoImgLight": "/img/testimonials/logo/2-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "Une équipe à l'écoute, rigoureuse et profondément connectée au tissu local. Les formations dispensées par MB-JALLOH ont sensiblement renforcé les compétences de nos équipes terrain en Guinée."
+	}
+]

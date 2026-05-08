@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Logo STAUNCH - Version SVG vectorielle officielle
+  Couleur principale : #1B91D1 (bleu Staunch)
+  Format : ellipse horizontale avec bande blanche centrale et texte
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none" role="img" aria-label="STAUNCH logo">
+  <title>STAUNCH</title>
+
+  <!-- Ellipse pleine bleue qui forme la base du logo -->
+  <ellipse cx="400" cy="200" rx="300" ry="100" fill="#1B91D1"/>
+
+  <!-- Bande blanche horizontale qui traverse le centre pour créer l'effet "œil" -->
+  <rect x="100" y="175" width="600" height="50" fill="#FFFFFF"/>
+
+  <!-- Texte STAUNCH en bleu, centré dans la bande blanche -->
+  <text x="400" y="218"
+        text-anchor="middle"
+        font-family="'Arial Black', 'Helvetica Black', Impact, sans-serif"
+        font-weight="900"
+        font-size="64"
+        fill="#1B91D1"
+        letter-spacing="3">STAUNCH</text>
+</svg>
