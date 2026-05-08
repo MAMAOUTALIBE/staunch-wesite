@@ -15,8 +15,7 @@ const Footer2 = () => {
 									</Link>
 								</div>
 								<p className="desc">
-									Cabinet 360° de conseil et d'accompagnement entrepreneurial
-									basé à Conakry, Guinée. Pôle coaching : MB-JALLOH.
+									Cabinet de conseil à Conakry. Pôle coaching : MB-JALLOH.
 								</p>
 								<div className="footer-social">
 									<h5 className="title">Suivez-nous :</h5>

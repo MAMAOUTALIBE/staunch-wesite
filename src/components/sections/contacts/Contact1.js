@@ -21,13 +21,11 @@ const Contact1 = () => {
 										// Parlons de votre projet
 									</span>
 									<h2 className="sec-title text-anim">
-										Échangeons ensemble pour mieux vous accompagner
+										Parlons de votre projet
 									</h2>
 									<div className="desc wow fadeInUp" data-wow-delay="0.3s">
 										<p>
-											Notre équipe d'experts vous accompagne à toutes les étapes.
-											Que vous soyez entrepreneur, dirigeant de PME ou investisseur
-											étranger, STAUNCH a une réponse adaptée à votre projet.
+											Une équipe d'experts pour entrepreneurs, PME et investisseurs étrangers.
 										</p>
 									</div>
 									<div
@@ -47,7 +45,7 @@ const Contact1 = () => {
 								data-wow-delay="0.1s"
 							>
 								<h3 className="title">
-									N'hésitez pas à nous contacter ou à venir nous rendre visite.
+									Contactez-nous.
 								</h3>
 								<div className="contact-item">
 									<div className="contact-text">

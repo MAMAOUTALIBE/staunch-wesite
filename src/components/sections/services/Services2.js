@@ -15,10 +15,10 @@ const Services2 = () => {
 						<div className="sec-heading style-2">
 							<div className="sec-text">
 								<span className="sub-title wow fadeInUp" data-wow-delay="0.1s">
-									// Nos pôles d'expertise
+									// Services
 								</span>
 								<h2 className="sec-title text-anim">
-									Découvrez notre offre 360° au service de votre réussite
+									Nos services
 								</h2>
 							</div>
 							<div

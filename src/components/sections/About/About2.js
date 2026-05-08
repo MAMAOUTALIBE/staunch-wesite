@@ -46,11 +46,7 @@ const About2 = () => {
 									</h2>
 									<div className="desc wow fadeInUp" data-wow-delay="0.3s">
 										<p>
-											STAUNCH est un cabinet 360° de conseil et d'accompagnement
-											entrepreneurial basé à Conakry. Indéfectibles à vos côtés,
-											nous combinons coaching, conseil stratégique, implantation
-											et facilitation institutionnelle pour transformer votre
-											projet en réussite durable.
+											Cabinet de conseil basé à Conakry. Coaching, conseil stratégique, implantation et facilitation institutionnelle.
 										</p>
 									</div>
 									<div
@@ -62,8 +58,7 @@ const About2 = () => {
 												<div className="check-list-one">
 													<ul>
 														<li>
-															<i className="tji-double-check"></i>Approche 360°
-															personnalisée
+															<i className="tji-double-check"></i>Approche personnalisée
 														</li>
 														<li>
 															<i className="tji-double-check"></i>Expertise locale
@@ -77,7 +72,7 @@ const About2 = () => {
 												</div>
 												<div className="about-button">
 													<ButtonPrimary
-														text={"Consultation gratuite"}
+														text={"En savoir plus"}
 														url={"/about"}
 													/>
 												</div>
@@ -90,7 +85,7 @@ const About2 = () => {
 								<div className="funfact-box">
 									<FunfactSingle currentValue={20} symbol={"+"} />
 									<span className="sub-title">
-										Années d'expertise au service des entrepreneurs guinéens.
+										Années d'expertise
 									</span>
 								</div>
 							</div>

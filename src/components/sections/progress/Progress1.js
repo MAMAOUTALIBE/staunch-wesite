@@ -34,11 +34,7 @@ const Progress1 = () => {
 								</h2>
 								<div className="desc wow fadeInUp" data-wow-delay="0.3s">
 									<p>
-										STAUNCH combine des outils internationaux éprouvés (MBTI,
-										Big Five, StrengthsFinder) et une connaissance fine du
-										tissu entrepreneurial guinéen. Notre méthodologie MB-JALLOH
-										vous accompagne du diagnostic jusqu'à la mise en œuvre
-										opérationnelle de votre stratégie.
+										Méthodologie MB-JALLOH : MBTI, Big Five, StrengthsFinder. Du diagnostic à l'exécution opérationnelle.
 									</p>
 								</div>
 								<div

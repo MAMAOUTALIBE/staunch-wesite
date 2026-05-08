@@ -36,7 +36,7 @@ const Blogs2 = ({ type, isSidebar }) => {
 						<div className="col-12">
 							<div className="sec-heading style-2 text-center">
 								<span className="sub-title wow fadeInUp" data-wow-delay="0.1s">
-									// Insights & Ressources
+									// Blog
 								</span>
 								<h2 className="sec-title text-anim">
 									Nos derniers articles

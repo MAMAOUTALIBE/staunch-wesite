@@ -11,7 +11,7 @@ const Brands1 = () => {
 							data-wow-delay="0.1s"
 						>
 							<h6 className="sec-title">
-								Rejoignez les <span>100+</span> entreprises qui nous font confiance en Guinée
+								<span>100+</span> entreprises nous font confiance
 							</h6>
 						</div>
 					</div>

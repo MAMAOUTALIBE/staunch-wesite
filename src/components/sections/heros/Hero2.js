@@ -10,18 +10,18 @@ import Image from "next/image";
 const Hero2 = () => {
 	const heroSlides = [
 		{
-			subtitle: "Cabinet 360° • Conakry, Guinée",
-			title: "Votre partenaire indéfectible pour entreprendre en Guinée",
+			subtitle: "Conakry, Guinée",
+			title: "Votre partenaire pour entreprendre en Guinée",
 			img: "/images/slider/slider-1.webp",
 		},
 		{
 			subtitle: "Coaching • Conseil • Implantation",
-			title: "Un accompagnement sur-mesure pour les entrepreneurs et entreprises",
+			title: "Un accompagnement sur-mesure",
 			img: "/images/slider/slider-2.webp",
 		},
 		{
 			subtitle: "Méthodologie MB-JALLOH",
-			title: "DIAGNOSE • DESIGN • DÉVELOPPER : 3 piliers pour votre réussite",
+			title: "Diagnose • Design • Développer",
 			img: "/images/slider/slider-3.webp",
 		},
 	];
@@ -89,9 +89,8 @@ const Hero2 = () => {
 											</div>
 											<div className="desc">
 												<p>
-													STAUNCH accompagne entrepreneurs, startups, PME et entreprises
-													étrangères avec un dispositif sur-mesure et un réseau
-													institutionnel solide en Afrique de l'Ouest.
+													Coaching, conseil et implantation pour entrepreneurs
+													et entreprises en Afrique de l'Ouest.
 												</p>
 											</div>
 											<div className="slider-shape">

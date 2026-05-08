@@ -9,11 +9,11 @@ const Cta1 = () => {
 					<div className="col-12">
 						<div className="cta-wrapper">
 							<div className="cta-title">
-								<h2 className="title text-anim">Demandez votre consultation gratuite !</h2>
+								<h2 className="title text-anim">Consultation gratuite</h2>
 							</div>
 							<div className="cta-button wow fadeInUp" data-wow-delay="0.1s">
 								<ButtonPrimary
-									text={"Parlons de votre projet"}
+									text={"Nous contacter"}
 									url={"/contact"}
 									className="white-btn"
 								/>

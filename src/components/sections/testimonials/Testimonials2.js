@@ -26,7 +26,7 @@ const Testimonials2 = ({ type }) => {
 									{type === 3 ? "" : "//"} Avis clients
 								</span>
 								<h2 className="sec-title text-anim">
-									Ce que disent nos clients
+									Témoignages
 								</h2>
 							</div>
 						</div>
@@ -48,7 +48,7 @@ const Testimonials2 = ({ type }) => {
 							<div className="testimonial-funfact">
 								<FunfactSingle currentValue={100} symbol={"+"} />
 								<span className="sub-title">
-									Entrepreneurs accompagnés <br /> en Afrique de l'Ouest.
+									Entrepreneurs <br /> accompagnés.
 								</span>
 							</div>
 						</div>
@@ -60,7 +60,7 @@ const Testimonials2 = ({ type }) => {
 									// Avis clients
 								</span>
 								<h2 className="sec-title text-anim">
-									Ce que disent nos clients
+									Témoignages
 								</h2>
 							</div>
 						) : (
