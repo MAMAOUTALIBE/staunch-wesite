@@ -40,7 +40,7 @@ const ServicesDetailsPrimary = ({ option }) => {
 										votre vision et déclinés en plans d'action mesurables.
 									</p>
 									<p className="wow fadeInUp" data-wow-delay="0.3s">
-										Cette mission s'inscrit dans notre approche 360° du conseil :
+										Cette mission s'inscrit dans notre approche du conseil :
 										coaching individuel, structuration stratégique, accompagnement
 										à la levée de fonds, implantation et facilitation institutionnelle.
 										Vous bénéficiez de l'expertise terrain de notre équipe, de
@@ -127,7 +127,7 @@ const ServicesDetailsPrimary = ({ option }) => {
 									<div className="check-list mb-40">
 										<h4 className="text-anim">Caractéristiques clés</h4>
 										<p className="wow fadeInUp" data-wow-delay="0.1s">
-											Cette mission articule diagnostic 360°, design stratégique
+											Cette mission articule diagnostic, design stratégique
 											et déploiement opérationnel. Chaque étape est jalonnée
 											d'indicateurs de performance clairs, d'un reporting
 											structuré et d'un point d'avancement régulier avec votre
@@ -150,7 +150,7 @@ const ServicesDetailsPrimary = ({ option }) => {
 												<div className="tj-feature-icon">
 													<i className="tji-quick"></i>
 												</div>
-												<h5 className="tj-feature-title">Approche 360°</h5>
+												<h5 className="tj-feature-title">Approche</h5>
 												<div className="desc">
 													<p>
 														Un seul interlocuteur pour toutes vos problématiques :
@@ -245,7 +245,7 @@ const ServicesDetailsPrimary = ({ option }) => {
 													>
 														<div className="accordion-body">
 															<p>
-																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche 360° couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
+																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
 															</p>
 														</div>
 													</div>
@@ -273,7 +273,7 @@ const ServicesDetailsPrimary = ({ option }) => {
 													>
 														<div className="accordion-body">
 															<p>
-																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche 360° couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
+																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
 															</p>
 														</div>
 													</div>
@@ -302,7 +302,7 @@ const ServicesDetailsPrimary = ({ option }) => {
 													>
 														<div className="accordion-body">
 															<p>
-																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche 360° couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
+																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
 															</p>
 														</div>
 													</div>
@@ -330,7 +330,7 @@ const ServicesDetailsPrimary = ({ option }) => {
 													>
 														<div className="accordion-body">
 															<p>
-																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche 360° couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
+																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
 															</p>
 														</div>
 													</div>
@@ -359,7 +359,7 @@ const ServicesDetailsPrimary = ({ option }) => {
 													>
 														<div className="accordion-body">
 															<p>
-																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche 360° couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
+																STAUNCH apporte un regard expert et un réseau institutionnel solide. Nous structurons votre stratégie, accompagnons votre exécution et mobilisons l'écosystème guinéen pour accélérer votre développement. Notre approche couvre coaching, conseil, implantation et facilitation — un partenariat indéfectible pour transformer vos ambitions en résultats.
 															</p>
 														</div>
 													</div>

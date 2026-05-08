@@ -97,7 +97,7 @@ const BlogDetailsPrimary = ({ option }) => {
 										</p>
 										<ul className="wow fadeInUp" data-wow-delay="0.3s">
 											<li>
-												<i className="tji-double-check"></i> Découvrez notre expertise 360°
+												<i className="tji-double-check"></i> Découvrez notre expertise
 											</li>
 											<li>
 												<i className="tji-double-check"></i> Engagement indéfectible et impact durable
@@ -132,7 +132,7 @@ const BlogDetailsPrimary = ({ option }) => {
 									</div>
 									<h4 className="text-anim">En conclusion</h4>
 									<p className="wow fadeInUp" data-wow-delay="0.1s">
-										Travailler avec un cabinet 360° comme STAUNCH, c'est faire le
+										Travailler avec un cabinet comme STAUNCH, c'est faire le
 										choix d'un partenaire stratégique unique pour transformer
 										votre vision en réussite concrète. Du diagnostic au
 										déploiement opérationnel, notre équipe vous accompagne avec

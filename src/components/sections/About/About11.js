@@ -12,7 +12,7 @@ const About11 = () => {
 									À propos de STAUNCH
 								</span>
 								<h2 className="sec-title text-anim">
-									Un cabinet 360° aux côtés des entrepreneurs et entreprises
+									Un cabinet aux côtés des entrepreneurs et entreprises
 								</h2>
 							</div>
 						</div>
@@ -27,7 +27,7 @@ const About11 = () => {
 							</p>
 							<p>
 								Né de l'évolution naturelle du pôle coaching MB-JALLOH, notre cabinet
-								propose une réponse 360° : coaching, conseil, implantation, facilitation
+								propose une réponse : coaching, conseil, implantation, facilitation
 								institutionnelle et réseautage stratégique.
 							</p>
 						</div>

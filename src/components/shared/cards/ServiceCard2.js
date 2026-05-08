@@ -16,13 +16,10 @@ const ServiceCard2 = ({ service, idx, lastItem }) => {
 					<Link href={`/services/${id}`}>{title}</Link>
 				</h4>
 				<div className="desc">
-					<p>
-						In today's dynamic business environment, the key to success lies
-						strategics our planning and operational business.
-					</p>
+					<p>{desc}</p>
 				</div>
 				<Link className="service-button text-btn" href={`/services/${id}`}>
-					Get optimization <i className="tji-arrow-right"></i>
+					En savoir plus <i className="tji-arrow-right"></i>
 				</Link>
 			</div>
 			<div className="thumb">

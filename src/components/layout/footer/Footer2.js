@@ -79,7 +79,7 @@ const Footer2 = () => {
 										</li>
 										<li>
 											<Link href="/careers">
-												Carrières <span>New</span>
+												Carrières <span>Nouveau</span>
 											</Link>
 										</li>
 										<li>

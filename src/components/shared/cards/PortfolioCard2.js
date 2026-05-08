@@ -16,7 +16,7 @@ const PortfolioCard2 = ({ portfolio, idx }) => {
 					height={524}
 					style={{ height: "auto" }}
 				/>
-				<Link href={`/portfolios/${id}`}>View Project</Link>
+				<Link href={`/portfolios/${id}`}>Voir le projet</Link>
 			</div>
 			<div className="project-content">
 				<h4 className="title">

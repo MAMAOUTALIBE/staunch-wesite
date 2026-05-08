@@ -11,9 +11,9 @@ const BlogDetailsMain = ({ currentItemId }) => {
 	return (
 		<div>
 			<HeroInner
-				title={"Blog Details"}
-				text={title ? sliceText(title, 31, true) : "Blog Details"}
-				breadcrums={[{ name: "Blogs", path: "/blogs" }]}
+				title={"Détail de l'article"}
+				text={title ? sliceText(title, 31, true) : "Détail de l'article"}
+				breadcrums={[{ name: "Blog", path: "/blogs" }]}
 				noNeedTitleAnim={true}
 			/>
 			<BlogDetailsPrimary option={option} />

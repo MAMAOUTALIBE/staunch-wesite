@@ -10,8 +10,8 @@ const ServiceDetailsMain = ({ currentItemId }) => {
 	return (
 		<div>
 			<HeroInner
-				title={title ? title : "Service details"}
-				text={title ? title : "Service details"}
+				title={title ? title : "Détail du service"}
+				text={title ? title : "Détail du service"}
 				breadcrums={[{ name: "Services", path: "/services" }]}
 				noNeedTitleAnim={true}
 			/>

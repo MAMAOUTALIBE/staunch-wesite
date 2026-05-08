@@ -43,7 +43,7 @@ const Faq3 = () => {
 													Un cabinet comme STAUNCH apporte un regard externe et expert sur
 													votre entreprise. Nous identifions les leviers de croissance,
 													structurons votre stratégie et mobilisons notre réseau institutionnel
-													guinéen pour accélérer votre développement. Notre approche 360° couvre
+													guinéen pour accélérer votre développement. Notre approche couvre
 													coaching, conseil stratégique, implantation et facilitation —
 													un seul partenaire, indéfectible, pour toutes vos problématiques.
 												</p>

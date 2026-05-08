@@ -14,7 +14,7 @@ const History1 = () => {
 		},
 		{
 			title: "Lancement du cabinet STAUNCH",
-			desc: "Face à la demande croissante d'accompagnement global — coaching, conseil, implantation, facilitation — création du cabinet 360° STAUNCH, qui intègre MB-JALLOH comme pôle coaching de référence.",
+			desc: "Face à la demande croissante d'accompagnement global — coaching, conseil, implantation, facilitation — création du cabinet STAUNCH, qui intègre MB-JALLOH comme pôle coaching de référence.",
 			images: [
 				"/images/history/history-3.webp",
 				"/images/history/history-4.webp",
@@ -23,7 +23,7 @@ const History1 = () => {
 		},
 		{
 			title: "Structuration des 6 pôles d'expertise",
-			desc: "STAUNCH déploie son offre 360° : Coaching & Formation, Accompagnement Startup, Conseil aux Entreprises, Implantation en Guinée, Facilitation Institutionnelle, Réseautage & Partenariats.",
+			desc: "STAUNCH déploie son offre : Coaching & Formation, Accompagnement Startup, Conseil aux Entreprises, Implantation en Guinée, Facilitation Institutionnelle, Réseautage & Partenariats.",
 			images: [
 				"/images/history/history-5.webp",
 				"/images/history/history-6.webp",

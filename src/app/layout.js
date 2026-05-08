@@ -20,11 +20,11 @@ import "./globals.scss";
 export const metadata = {
 	metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://staunch.gn"),
 	title: {
-		default: "STAUNCH — Cabinet de Conseil 360° en Guinée",
+		default: "STAUNCH — Cabinet de Conseil en Guinée",
 		template: "%s | STAUNCH",
 	},
 	description:
-		"STAUNCH est un cabinet de conseil 360° basé à Conakry. Coaching, formation, conseil aux entreprises, implantation en Guinée et facilitation institutionnelle. Pôle coaching MB-JALLOH.",
+		"STAUNCH est un cabinet de conseil basé à Conakry, Guinée. Coaching, formation, conseil aux entreprises, implantation en Guinée et facilitation institutionnelle. Pôle coaching MB-JALLOH.",
 	keywords: [
 		"cabinet conseil Guinée",
 		"coaching entrepreneurial Conakry",
@@ -45,7 +45,7 @@ export const metadata = {
 		url: "https://staunch.gn",
 		title: "STAUNCH — Votre partenaire indéfectible en Guinée",
 		description:
-			"Cabinet 360° de conseil et accompagnement entrepreneurial. Coaching, formation, implantation en Guinée.",
+			"Cabinet de conseil et accompagnement entrepreneurial. Coaching, formation, implantation en Guinée.",
 		siteName: "STAUNCH",
 		images: [
 			{
@@ -58,7 +58,7 @@ export const metadata = {
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "STAUNCH — Cabinet de Conseil 360° en Guinée",
+		title: "STAUNCH — Cabinet de Conseil en Guinée",
 		description: "Votre partenaire indéfectible pour entreprendre en Guinée",
 		images: ["/images/og-image.png"],
 	},

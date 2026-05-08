@@ -17,7 +17,7 @@ const Funfact3 = () => {
 							</span>
 							<div className="desc mb-60 wow fadeInUp" data-wow-delay="0.3s">
 								« Fondé en 2019 par Mohamed Bashir Jalloh, STAUNCH est né de la
-								volonté de proposer un accompagnement entrepreneurial 360° au cœur
+								volonté de proposer un accompagnement entrepreneurial au cœur
 								de la Guinée. Ce qui a commencé comme un pôle coaching MB-JALLOH
 								est rapidement devenu un cabinet de conseil de référence pour
 								entrepreneurs, PME et entreprises étrangères. Nos valeurs — loyauté,
@@ -76,7 +76,7 @@ const Funfact3 = () => {
 							</span>
 							<div className="desc mb-60">
 								« Fondé en 2019 par Mohamed Bashir Jalloh, STAUNCH est né de la
-								volonté de proposer un accompagnement entrepreneurial 360° au cœur
+								volonté de proposer un accompagnement entrepreneurial au cœur
 								de la Guinée. Ce qui a commencé comme un pôle coaching MB-JALLOH
 								est rapidement devenu un cabinet de conseil de référence pour
 								entrepreneurs, PME et entreprises étrangères. Nos valeurs — loyauté,

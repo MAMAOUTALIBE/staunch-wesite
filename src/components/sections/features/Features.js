@@ -15,7 +15,7 @@ const Features = ({ type }) => {
 	);
 	const features = [
 		{
-			title: "Approche 360°",
+			title: "Approche",
 			desc: "Du coaching individuel à la stratégie d'entreprise, en passant par l'implantation : un seul interlocuteur pour tous vos besoins.",
 			icon: (
 				<svg
