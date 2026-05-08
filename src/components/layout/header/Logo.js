@@ -21,8 +21,8 @@ const Logo = ({ headerType, isStickyHeader }) => {
 							: "primary-logo.png"
 					}`}
 					alt="STAUNCH"
-					height={37}
-					width={150}
+					height={60}
+					width={220}
 				/>
 			</Link>
 		</div>
