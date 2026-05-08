@@ -6,25 +6,32 @@ services:
     restart: always
     environment:
       - NODE_ENV=production
-      - NEXT_PUBLIC_SITE_URL=http://srv1643859.hstgr.cloud
-      - NEXT_PUBLIC_CONTACT_EMAIL=contact@staunch.gn
+      - NEXT_PUBLIC_SITE_URL=${NEXT_PUBLIC_SITE_URL:-http://srv1643859.hstgr.cloud}
+      - NEXT_PUBLIC_CONTACT_EMAIL=${NEXT_PUBLIC_CONTACT_EMAIL:-contact@staunch.gn}
     expose:
       - "3000"
     labels:
       - "traefik.enable=true"
-      # Le réseau utilisé par les routers Traefik (à confirmer après audit VPS)
-      - "traefik.docker.network=traefik"
-      # Router HTTP — répond sur l'IP publique et le hostname Hostinger
+      # Réseau Traefik à utiliser (variable TRAEFIK_NETWORK, défaut "traefik")
+      - "traefik.docker.network=${TRAEFIK_NETWORK:-traefik}"
+      # Router HTTP — IP publique + hostname Hostinger
       - "traefik.http.routers.staunch.rule=Host(`srv1643859.hstgr.cloud`) || Host(`187.127.228.197`)"
       - "traefik.http.routers.staunch.entrypoints=web"
       # Service Next.js exposé sur le port 3000
       - "traefik.http.services.staunch.loadbalancer.server.port=3000"
     networks:
       - traefik-network
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://127.0.0.1:3000/ || exit 1"]
+      interval: 30s
+      timeout: 5s
+      start_period: 30s
+      retries: 3
 
 networks:
   traefik-network:
     external: true
-    # Le nom EXACT du réseau Traefik existant sur le VPS — à valider via
-    # `docker network ls` après connexion SSH puis ajusté si nécessaire.
-    name: traefik
+    # Nom exact du réseau Traefik sur le VPS (variable TRAEFIK_NETWORK, défaut "traefik").
+    # Le script deploy.sh détecte automatiquement ce nom et écrit la valeur dans .env
+    # avant de lancer docker compose up.
+    name: ${TRAEFIK_NETWORK:-traefik}
